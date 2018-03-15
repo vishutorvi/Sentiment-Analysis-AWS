@@ -1,0 +1,1397 @@
+c__builtin__
+set
+p0
+((lp1
+S''
+p2
+aS'h.263'
+p3
+aS'rom'
+p4
+aS'edr'
+p5
+aS'umts'
+p6
+aS'wideband code division multiple access'
+p7
+aS'gb'
+p8
+aS'mno'
+p9
+aS'half-duplex'
+p10
+aS'aptx'
+p11
+aS'ptp'
+p12
+aS'm2m'
+p13
+aS'band 2'
+p14
+aS'resistive touch screen'
+p15
+aS'band 5'
+p16
+aS'band 4'
+p17
+aS'electronic serial number'
+p18
+aS'upload'
+p19
+aS'wml'
+p20
+aS'wma'
+p21
+aS'band 30'
+p22
+aS'push-to-talk'
+p23
+aS'rs-mmc'
+p24
+aS'smartphone'
+p25
+aS'mobile wimax'
+p26
+aS'dual-core processor'
+p27
+aS'prepaid'
+p28
+aS'synchronous'
+p29
+aS'activation'
+p30
+aS'sar'
+p31
+aS'wimax'
+p32
+aS'pdaf'
+p33
+aS'cellular'
+p34
+aS'sind'
+p35
+aS'uwb'
+p36
+aS'voip'
+p37
+aS'world phone'
+p38
+aS'cdpd'
+p39
+aS'mobile identification number'
+p40
+aS'fdma'
+p41
+aS'fhd'
+p42
+aS'hands-free kit'
+p43
+aS'haptic feedback'
+p44
+aS'music player'
+p45
+aS'fcc'
+p46
+aS'pba'
+p47
+aS'geo-fencing'
+p48
+aS'imap4'
+p49
+aS'mp3'
+p50
+aS'gsm 800'
+p51
+aS'pictbridge'
+p52
+aS'android open source project'
+p53
+aS'droid'
+p54
+aS'geo-tag'
+p55
+aS'skin'
+p56
+aS'shared memory'
+p57
+aS'e-911'
+p58
+aS'alphanumeric'
+p59
+aS'odm'
+p60
+aS'trackball'
+p61
+aS'download'
+p62
+aS'standalone mode'
+p63
+aS'tether'
+p64
+aS'machine learning'
+p65
+aS'port'
+p66
+aS'email client'
+p67
+aS'mpeg'
+p68
+aS'integrated pda'
+p69
+aS'ssid'
+p70
+aS'oled'
+p71
+aS'li-polymer'
+p72
+aS'cell'
+p73
+aS'assisted gps'
+p74
+aS'bits per second'
+p75
+aS'mmcmobile'
+p76
+aS'optical image stabilization'
+p77
+aS'gyroscope'
+p78
+aS'dashboard'
+p79
+aS'widget'
+p80
+aS'hdml'
+p81
+aS'barometer'
+p82
+aS'hdmi'
+p83
+aS'exchange'
+p84
+aS'original design manufacturer'
+p85
+aS'cellular band'
+p86
+aS'e-otd'
+p87
+aS'numeric keypad'
+p88
+aS'mt-sms'
+p89
+aS'stereo speakers'
+p90
+aS'galileo'
+p91
+aS'gigahertz'
+p92
+aS'qos'
+p93
+aS'mass storage mode'
+p94
+aS'rds'
+p95
+aS'root'
+p96
+aS'femtocell'
+p97
+aS'lte advanced'
+p98
+aS'rel. 0'
+p99
+aS'drm'
+p100
+aS'nano-sim'
+p101
+aS'finger touch'
+p102
+aS'speaker-independent voice dialing'
+p103
+aS'text messaging templates'
+p104
+aS'headphone jack (3.5mm)'
+p105
+aS'sim access profile'
+p106
+aS'os'
+p107
+aS'app'
+p108
+aS'brs'
+p109
+aS'ofdm'
+p110
+aS'speaker-independent'
+p111
+aS'ips'
+p112
+aS'api'
+p113
+aS'apn'
+p114
+aS'terminal'
+p115
+aS'wi-fi'
+p116
+aS'usb'
+p117
+aS'mst'
+p118
+aS'aosp'
+p119
+aS'camera'
+p120
+aS'echo suppressor'
+p121
+aS'mmc'
+p122
+aS'hscsd'
+p123
+aS'electrophoretic'
+p124
+aS'tv output'
+p125
+aS'cached data'
+p126
+aS'ir'
+p127
+aS'ruggedized'
+p128
+aS'series 60'
+p129
+aS'transflash'
+p130
+aS'is-95'
+p131
+aS'phase detection auto-focus'
+p132
+aS'tri-band'
+p133
+aS'lte-u'
+p134
+aS'mb'
+p135
+aS'ml'
+p136
+aS'tri-mode'
+p137
+aS'frame error rate'
+p138
+aS'is-856'
+p139
+aS'band 66'
+p140
+aS'lte-a'
+p141
+aS'multi-core processor'
+p142
+aS'changeable faceplates'
+p143
+aS'rev. a'
+p144
+aS'eri'
+p145
+aS'wibro'
+p146
+aS'to-do list'
+p147
+aS'smtp'
+p148
+aS'mini-uicc'
+p149
+aS'lithium ion'
+p150
+aS'preferred roaming list'
+p151
+aS'service provider'
+p152
+aS'sip'
+p153
+aS'glonass'
+p154
+aS'handover'
+p155
+aS'liquid crystal display'
+p156
+aS'packet switching'
+p157
+aS'csc'
+p158
+aS'fps'
+p159
+aS'wcdma'
+p160
+aS'wll'
+p161
+aS'xhtml'
+p162
+aS'hot-swappable'
+p163
+aS'sim'
+p164
+aS'map'
+p165
+aS'base station'
+p166
+aS'lte'
+p167
+aS'r-uim'
+p168
+aS'wallpaper'
+p169
+aS'npa'
+p170
+aS'laa'
+p171
+aS'meid'
+p172
+aS'ringback tone'
+p173
+aS'mah'
+p174
+aS'analog roaming'
+p175
+aS'car kit'
+p176
+aS'svlte'
+p177
+aS'tethering'
+p178
+aS'hfp'
+p179
+aS'ghz'
+p180
+aS'threaded messaging'
+p181
+aS'carrier aggregation'
+p182
+aS's60'
+p183
+aS'mirrorlink'
+p184
+aS'avrcp'
+p185
+aS'ems / picture messaging'
+p186
+aS'sd'
+p187
+aS'organic light-emitting diode'
+p188
+aS'tty'
+p189
+aS'minisd'
+p190
+aS'colt'
+p191
+aS'crosstalk'
+p192
+aS'stylus'
+p193
+aS'upper 700 band'
+p194
+aS'voice dialing'
+p195
+aS'is-136'
+p196
+aS'ffc'
+p197
+aS'volte'
+p198
+aS'nimh'
+p199
+aS'duplex'
+p200
+aS'pcs'
+p201
+aS'presence'
+p202
+aS'ims'
+p203
+aS'html'
+p204
+aS'pixel'
+p205
+aS'uhd'
+p206
+aS'contention'
+p207
+aS'cdma 850'
+p208
+aS'band'
+p209
+aS'mvne'
+p210
+aS'das'
+p211
+aS'mvno'
+p212
+aS'standby time'
+p213
+aS'nfc'
+p214
+aS'ip multimedia subsystem'
+p215
+aS'auto-focus'
+p216
+aS'receive diversity'
+p217
+aS'usb type-c'
+p218
+aS'band 29'
+p219
+aS'back-side illumination'
+p220
+aS'band 26'
+p221
+aS'qvga'
+p222
+aS'band 25'
+p223
+aS'gprs'
+p224
+aS'el'
+p225
+aS'call screening'
+p226
+aS'data-capable'
+p227
+aS'mdn'
+p228
+aS'fingerprint scanner'
+p229
+aS'mil-spec'
+p230
+aS'push-to-talk over cellular'
+p231
+aS'hlr'
+p232
+aS'bc10'
+p233
+aS'bluetooth'
+p234
+aS'frequency'
+p235
+aS'picture id'
+p236
+aS'custom ringtones'
+p237
+aS'ftp'
+p238
+aS'alarm clock'
+p239
+aS'sms'
+p240
+aS'smr'
+p241
+aS'release 0'
+p242
+aS'payg'
+p243
+aS'wap / web browser'
+p244
+aS'ansi-136'
+p245
+aS'rf'
+p246
+aS'nand memory'
+p247
+aS'unlocked phone'
+p248
+aS'flight mode'
+p249
+aS'rfid'
+p250
+aS'cdma 1700'
+p251
+aS'sdio'
+p252
+aS'wan'
+p253
+aS'syncml'
+p254
+aS'peak hours'
+p255
+aS'fota'
+p256
+aS'mms'
+p257
+aS'symbian'
+p258
+aS'pc sync'
+p259
+aS'hspa'
+p260
+aS'byte'
+p261
+aS'bootloader'
+p262
+aS'mimo'
+p263
+aS'midi'
+p264
+aS'adjustable text size'
+p265
+aS'wireless local loop'
+p266
+aS'subsidy lock'
+p267
+aS'circuit'
+p268
+aS'cdma'
+p269
+aS'lithium polymer'
+p270
+aS'midp'
+p271
+aS'sideload'
+p272
+aS'wlan'
+p273
+aS'kilobyte'
+p274
+aS'nanpa'
+p275
+aS'hard drive'
+p276
+aS'voice over internet protocol'
+p277
+aS'gpsone'
+p278
+aS'lock code'
+p279
+aS'off-peak hours'
+p280
+aS'vibrate'
+p281
+aS'bokeh'
+p282
+aS'backhaul'
+p283
+aS'gpu'
+p284
+aS'wireless village'
+p285
+aS'flight mode icon'
+p286
+aS'gps'
+p287
+aS'wideband audio'
+p288
+aS'soft handoff'
+p289
+aS'dual-sim'
+p290
+aS'tfd'
+p291
+aS'rsa'
+p292
+aS'multi-touch'
+p293
+aS'windows mobile'
+p294
+aS'broadcast'
+p295
+aS'short code'
+p296
+aS'tft'
+p297
+aS'small cell'
+p298
+aS'rss'
+p299
+aS'microsdxc'
+p300
+aS'throttle'
+p301
+aS'evdo'
+p302
+aS'pc card'
+p303
+aS'mbps'
+p304
+aS'second display'
+p305
+aS'voice mail'
+p306
+aS'mmds'
+p307
+aS'evdv'
+p308
+aS'nor memory'
+p309
+aS'lbs'
+p310
+aS'liion'
+p311
+aS'prl'
+p312
+aS'ram'
+p313
+aS'spectrum'
+p314
+aS'fm radio'
+p315
+aS'svdo'
+p316
+aS'gigabyte'
+p317
+aS'irda'
+p318
+aS'monochrome'
+p319
+aS'sap'
+p320
+aS'latency'
+p321
+aS'wcs'
+p322
+aS'min'
+p323
+aS'network capacity'
+p324
+aS'firmware'
+p325
+aS'memory effect'
+p326
+aS'hotspot'
+p327
+aS'band 13'
+p328
+aS'band 12'
+p329
+aS'a-gps'
+p330
+aS'band 17'
+p331
+aS'category 4'
+p332
+aS'band 14'
+p333
+aS'mediaflo'
+p334
+aS'sdhc'
+p335
+aS'uplink'
+p336
+aS'aws'
+p337
+aS'cdma2000'
+p338
+aS'visual voicemail'
+p339
+aS'ultra hd'
+p340
+aS'wireless terminal'
+p341
+aS'lower 700 band'
+p342
+aS'bsi'
+p343
+aS'amps'
+p344
+aS'aflt'
+p345
+aS'pager'
+p346
+aS'kb'
+p347
+aS'reverse link'
+p348
+aS'revision a'
+p349
+aS'url'
+p350
+aS'polyphonic ringtones'
+p351
+aS'fingerprint reader'
+p352
+aS'puk code'
+p353
+aS'brew'
+p354
+aS'form factor'
+p355
+aS'service plan'
+p356
+aS'area code'
+p357
+aS'cdg'
+p358
+aS'external antenna jack'
+p359
+aS'ss7'
+p360
+aS'downlink'
+p361
+aS'stn'
+p362
+aS'infrared'
+p363
+aS'usim'
+p364
+aS'location-based services'
+p365
+aS'refarm'
+p366
+aS'gsm map'
+p367
+aS'esmr'
+p368
+aS'keitai'
+p369
+aS'xml'
+p370
+aS'ansi-41'
+p371
+aS'side keys'
+p372
+aS'hpue'
+p373
+aS'live tv'
+p374
+aS'capacitive'
+p375
+aS'wtls'
+p376
+aS'cache'
+p377
+aS'mfbi'
+p378
+aS'airtime'
+p379
+aS'theme'
+p380
+aS'digital rights management'
+p381
+aS'arpu'
+p382
+aS'airplane mode'
+p383
+aS'paired band'
+p384
+aS'fixed-focus'
+p385
+aS'vocoder'
+p386
+aS'pcmcia'
+p387
+aS'dc'
+p388
+aS'pop3'
+p389
+aS'hid'
+p390
+aS'soft keys'
+p391
+aS'cif'
+p392
+aS'bar'
+p393
+aS'aac'
+p394
+aS'external display'
+p395
+aS'hrpd'
+p396
+aS'international telecommunication union'
+p397
+aS'qi'
+p398
+aS'video capture'
+p399
+aS'unlicensed'
+p400
+aS'mtp'
+p401
+aS'dpi'
+p402
+aS'bandwidth throttling'
+p403
+aS'full hd'
+p404
+aS'half-qwerty'
+p405
+aS'band 41'
+p406
+aS'packet'
+p407
+aS'bta'
+p408
+aS'dvb-h'
+p409
+aS'ebs'
+p410
+aS'led'
+p411
+aS'calendar'
+p412
+aS'packet data'
+p413
+aS'analog'
+p414
+aS'smpp'
+p415
+aS'itu'
+p416
+aS'capacity'
+p417
+aS'face plate'
+p418
+aS'chtml'
+p419
+aS'ieee'
+p420
+aS'tdd (tty)'
+p421
+aS'high definition'
+p422
+aS'xenon flash'
+p423
+aS'home location register'
+p424
+aS'imsi'
+p425
+aS'oma'
+p426
+aS'coverage area'
+p427
+aS'security code'
+p428
+aS'gnss'
+p429
+aS'circuit switching'
+p430
+aS'cow'
+p431
+aS'gbps'
+p432
+aS'games'
+p433
+aS'multiple numbers per name'
+p434
+aS'browser'
+p435
+aS'pda'
+p436
+aS'text keyboard'
+p437
+aS'clamshell'
+p438
+aS'miracast'
+p439
+aS'microcell'
+p440
+aS'pentile'
+p441
+aS'dtmf'
+p442
+aS'pop'
+p443
+aS'megapixel'
+p444
+aS'voice digit dialing'
+p445
+aS'hot swap'
+p446
+aS'linux'
+p447
+aS'inductive charging'
+p448
+aS'poc'
+p449
+aS'java'
+p450
+aS'tcp/ip'
+p451
+aS'dun'
+p452
+aS'virtual reality'
+p453
+aS'user interface'
+p454
+aS'distributed antenna system'
+p455
+aS'snaptrack'
+p456
+aS'a2dp'
+p457
+aS'refurbished'
+p458
+aS'mobile hotspot'
+p459
+aS'lte 750'
+p460
+aS'qcif'
+p461
+aS'brick'
+p462
+aS'wireless charging'
+p463
+aS'quality of service'
+p464
+aS'geo-tagging'
+p465
+aS'diversity'
+p466
+aS'handoff'
+p467
+aS'ota'
+p468
+aS'pbx'
+p469
+aS'quad-band'
+p470
+aS'video sharing'
+p471
+aS'baseband'
+p472
+aS'walkie-talkie'
+p473
+aS'minibrowser'
+p474
+aS'imap'
+p475
+aS'gsm 850'
+p476
+aS'unicast'
+p477
+aS'hdr'
+p478
+aS'launcher'
+p479
+aS'over-the-air'
+p480
+aS'digital zoom'
+p481
+aS'avrc'
+p482
+aS'local service area'
+p483
+aS'ip'
+p484
+aS'calculator'
+p485
+aS'key guard'
+p486
+aS'cdma 800'
+p487
+aS'vr'
+p488
+aS'im'
+p489
+aS'forward link'
+p490
+aS'paired spectrum'
+p491
+aS'wi-fi display'
+p492
+aS'binary'
+p493
+aS'hearing aid compatible'
+p494
+aS'calling plan'
+p495
+aS'concatenated sms'
+p496
+aS'ip rating'
+p497
+aS'egprs'
+p498
+aS'text-to-speech'
+p499
+aS'hot spot'
+p500
+aS'capacitive touch'
+p501
+aS'android'
+p502
+aS'instant messaging'
+p503
+aS'contactless'
+p504
+aS'pan'
+p505
+aS'picocell'
+p506
+aS'attenuation'
+p507
+aS'e-ink'
+p508
+aS'd-pad'
+p509
+aS'custom graphics'
+p510
+aS't9'
+p511
+aS'speaker phone'
+p512
+aS'federal communications commission'
+p513
+aS'transceiver'
+p514
+aS'quad-core processor'
+p515
+aS'hsdpa'
+p516
+aS'ringer profiles'
+p517
+aS'ois'
+p518
+aS'flip phone'
+p519
+aS'modes'
+p520
+aS'macro'
+p521
+aS'dlna'
+p522
+aS'edge'
+p523
+aS'headset profile'
+p524
+aS'ccd'
+p525
+aS'modem'
+p526
+aS'gsm'
+p527
+aS'key lock switch'
+p528
+aS'qhd'
+p529
+aS'ringer id'
+p530
+aS'vga'
+p531
+aS'bandwidth'
+p532
+aS'widen'
+p533
+aS'cphs'
+p534
+aS'ctia'
+p535
+aS'flashlight'
+p536
+aS'optical zoom'
+p537
+aS'svga'
+p538
+aS'mmap'
+p539
+aS'hac'
+p540
+aS'megabyte'
+p541
+aS'microsd'
+p542
+aS'dual-carrier'
+p543
+aS'hsupa'
+p544
+aS'opp'
+p545
+aS'pixel density'
+p546
+aS'real-music ringers'
+p547
+aS'usb on-the-go'
+p548
+aS'jailbreak'
+p549
+aS'number portability'
+p550
+aS'lcd'
+p551
+aS'imei'
+p552
+aS'world roaming'
+p553
+aS'bit'
+p554
+aS'amr'
+p555
+aS'bip'
+p556
+aS'mhl'
+p557
+aS'apk'
+p558
+aS'micro-usb'
+p559
+aS'original equipment manufacturer'
+p560
+aS'talk time'
+p561
+aS'bpp'
+p562
+aS'bps'
+p563
+aS'mhz'
+p564
+aS'avatar'
+p565
+aS'proximity sensor'
+p566
+aS'tower'
+p567
+aS'megahertz'
+p568
+aS'intrinsically safe'
+p569
+aS'haptics'
+p570
+aS'pay-as-you-go'
+p571
+aS'wlnp'
+p572
+aS'csfb'
+p573
+aS'front-facing camera'
+p574
+aS'broadband'
+p575
+aS'ice'
+p576
+aS'ptt'
+p577
+aS'ecml / digital wallet'
+p578
+aS'augmented reality'
+p579
+aS'uma'
+p580
+aS'esn'
+p581
+aS'sub-qcif'
+p582
+aS'wide area network'
+p583
+aS'obex'
+p584
+aS'band 71'
+p585
+aS'video calling'
+p586
+aS'wmv'
+p587
+aS'tdd'
+p588
+aS'hsp'
+p589
+aS'oem'
+p590
+aS'qnc'
+p591
+aS'roaming'
+p592
+aS'ufs'
+p593
+aS'dcs'
+p594
+aS'accelerometer'
+p595
+aS'egsm'
+p596
+aS'dynamic memory'
+p597
+aS'hall effect sensor'
+p598
+aS'carrier'
+p599
+aS'j2me'
+p600
+aS'kbps'
+p601
+aS'processor'
+p602
+aS'block'
+p603
+aS'dual-band'
+p604
+aS'streaming video'
+p605
+aS'digital tty/tdd'
+p606
+aS'ppi'
+p607
+aS'iden'
+p608
+aS'flash memory'
+p609
+aS'feature phone'
+p610
+aS'mobile phone'
+p611
+aS'mil-std'
+p612
+aS'cat 4'
+p613
+aS'subscriber'
+p614
+aS'cldc'
+p615
+aS'wcdma 1700'
+p616
+aS'full-duplex'
+p617
+aS'hertz'
+p618
+aS'rcs'
+p619
+aS'slimport'
+p620
+aS'msl'
+p621
+aS'is-41'
+p622
+aS'smil'
+p623
+aS'fer'
+p624
+aS'single-band'
+p625
+aS'artificial intelligence'
+p626
+aS'wap'
+p627
+aS'hz'
+p628
+aS'sim lock'
+p629
+aS'unlicensed mobile access'
+p630
+aS'locked phone'
+p631
+aS'side-load'
+p632
+aS'gait'
+p633
+aS'wireless'
+p634
+aS'microsdhc'
+p635
+aS'u-tdoa'
+p636
+aS'usb otg'
+p637
+aS'hd'
+p638
+aS'sdk'
+p639
+aS'imps'
+p640
+aS'operating system'
+p641
+aS'fdd'
+p642
+aS'hd voice'
+p643
+aS'mo-sms'
+p644
+aS'fdn'
+p645
+aS'electro-luminescent'
+p646
+aS'ui'
+p647
+aS'msa'
+p648
+aS'moblog'
+p649
+aS'mta'
+p650
+aS'multipath'
+p651
+aS'quad hd'
+p652
+aS'pim'
+p653
+aS'pin'
+p654
+aS'memory card slot'
+p655
+aS'ai'
+p656
+aS'uiq'
+p657
+aS'qwerty'
+p658
+aS'ar'
+p659
+aS'asynchronous'
+p660
+aS'touch screen'
+p661
+aS'iccid'
+p662
+aS'wwan'
+p663
+aS'upnp'
+p664
+aS'cmos'
+p665
+aS'hands-free profile'
+p666
+aS'antenna'
+p667
+aS'ringtone'
+p668
+aS'nam'
+p669
+aS'application'
+p670
+aS'codec'
+p671
+aS'mini-usb'
+p672
+aS'land line'
+p673
+aS'digital'
+p674
+aS'long sms'
+p675
+aS'tia'
+p676
+aS'nicd'
+p677
+aS'text messaging'
+p678
+aS'cstn'
+p679
+aS'amoled'
+p680
+aS'sdxc'
+p681
+aS'fm transmitter'
+p682
+aS'multiple languages'
+p683
+aS'predictive text entry'
+p684
+aS'tdma'
+p685
+aS'nxx'
+p686
+aS'master subsidy lock'
+p687
+aS'dual-mode'
+p688
+aS'voice memo'
+p689
+aS'transflective'
+p690
+aS'push'
+p691
+aS'caller id'
+p692
+aS'mobile network operator'
+p693
+aS'resolution'
+p694
+aS'cpu'
+p695
+aS'micro-sim'
+p696
+atp697
+Rp698
+.

@@ -1,0 +1,14 @@
+{
+	"facebook": {
+		"id": "comment_id",
+		"comment": "actual comment",
+		"page_name": "name of the page",
+		"search_terms": "words that were used fo searching to get this comment"
+	},
+	"youtube": {
+		"id": "comment_id",
+		"comment": "actual comment",
+		"search terms": "words that were used fo searching to get this comment",
+		"title": "title of the video"
+	}
+}

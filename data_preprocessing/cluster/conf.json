@@ -1,0 +1,61 @@
+{
+	"conf_path":"conf/conf.json",
+	"log_path":"all.log",
+	"db_host_ip" : "ec2-13-59-160-49.us-east-2.compute.amazonaws.com",
+	"db_name": "reviews_db",
+	"youtube":{
+		"data_path":"data/continental_youtube.csv",
+		"search_url":"https://www.googleapis.com/youtube/v3/search?part=snippet",
+		"key":"AIzaSyCC5ieM4Sm1wH2by58N0ojfr91E4umcTPI",
+		"search":{
+			"maxVideos":100,
+			"base_url":"https://www.googleapis.com/youtube/v3/search?part=snippet",
+			"terms":"bentley continental gt",
+			"params":{
+				"maxResults":50,
+				"fields":"nextPageToken,items/id/videoId"
+			}
+		},
+		"top_level_comment":{
+			"base_url":"https://www.googleapis.com/youtube/v3/commentThreads?part=snippet",
+			"params":{
+				"maxResults":100,
+				"fields":"nextPageToken,pageInfo,items/snippet(totalReplyCount,topLevelComment(id,snippet(authorDisplayName,textDisplay,publishedAt)))"
+			}
+		},
+		"comment_replies":{
+			"base_url":"https://www.googleapis.com/youtube/v3/comments?part=snippet",
+			"params":{
+				"maxResults":100,
+				"fields":"nextPageToken,pageInfo,items(id,snippet(authorDisplayName,textDisplay,parentId,updatedAt))"
+			}
+		}
+
+	},
+	"facebook":{
+		"data_path":"facebook_iPhoneX.csv",
+		"url_root" : "https://graph.facebook.com/v2.11",
+		"access_token":"EAACEdEose0cBAOFeZBAj3KtOm9vGz3DXjVpwZBggn5edKPUf40jirwKJk7akrssdq1BKVzqoccWmSGZB4uFitggToousYuYCEq1pdIxi5T9wnvpLsg1hoUOnZC8EludAzTM9IaaCxbF2AXJ2ztZBjy5NlgEmYJ0sAQSCu4DzfXi9y7qUGKoKuOZClv4ZAZAv6vEZD",
+		"pages1":["verge", "mashable.tech" , "PhoneArena" , "MKBHD", "DroidLife", "AndroidCentral" , "androidauthority" , "pocketnow" , "TechnoBuffalo" , "phandroid" , "theMrMobile" , "Engadget", "TechRadar" , "gizmodo", "circuitbreaker"],
+		"page_list_file" : "pages.txt",
+		"terms":"iphone",
+		"comment_ids_persisted": "comment_ids.pickle",
+		"data":{
+			"page":{
+				"edge": "posts",
+				"params":{
+					"fields": ["message","id","name","created_time"],
+					"limit" : "100"	
+				}
+				
+			},
+			"post":{
+				"edge":"comments",
+				"params":{
+					"fields" : ["message","id","created_time","name","from"],
+					"limit" : "100"	
+				}
+			}
+		}
+	}
+}

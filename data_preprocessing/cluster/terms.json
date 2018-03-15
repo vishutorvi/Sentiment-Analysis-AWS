@@ -1,0 +1,26 @@
+{
+    "iphoneX" : [
+		"iphone 10",
+		"iphonex"
+    ],
+    "google_pixel2": [
+        "google pixel2",
+        "google pixel2 xl"
+    ],
+	"samsung_s8" : [
+                    "s8",
+					"samsung s8",
+					"samsung galaxy s8",
+					"galaxy s8"
+	],
+	"oneplus5" : [
+                    "oneplus5t",
+                    "one plus 5t",
+                    "op5t"
+    ],
+	"motoz_droid":[
+        "z droid",
+        "moto z droid",
+        "motoz droid"
+    ]
+}

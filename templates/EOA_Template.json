@@ -1,0 +1,13 @@
+{
+	"named_entitity": {
+		"nouns": [{
+			"name": "count",
+			"adjectives": {
+				"adjective": "count"
+			}
+		}],
+		"adjectives": {
+			"adjective": "count"
+		}
+	}
+}

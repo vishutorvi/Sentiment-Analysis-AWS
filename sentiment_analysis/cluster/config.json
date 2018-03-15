@@ -1,0 +1,5 @@
+{
+    "db_ip": "ec2-54-196-32-248.compute-1.amazonaws.com",
+    "db_port": 27017,
+    "db_name": "reviews_db"
+}

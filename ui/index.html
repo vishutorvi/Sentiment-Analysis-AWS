@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html ng-app="moda">
+	<style>
+		table {
+			max-width:980px;
+			table-layout:fixed;
+			margin:auto;
+			border:none;
+		}
+		th, td {
+			padding:5px 10px;
+			border:1px solid #000;
+		}
+		thead {
+			background:#f9f9f9;
+			display:table;
+			width:100%;
+			width:calc(100% - 18px);
+		}
+		tbody {
+			height:300px;
+			overflow:auto;
+			overflow-x:hidden;
+			display:block;
+			width:100%;
+		}
+		h1 {
+			font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+			font-size: 36px;
+			font-style: normal;
+			font-variant: normal;
+			font-weight: 500;
+			line-height: 26.4px;
+		}
+
+		table {
+			font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+			font-size: 16px;
+			font-style: normal;
+			font-variant: normal;
+			font-weight: 500;
+			line-height: 26.4px;
+		}
+		select, label {
+			font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+			font-size: 16px;
+			font-style: normal;
+			font-variant: normal;
+			font-weight: 500;
+			line-height: 26.4px;
+		}
+		body {
+			background-image: url("wall.png");
+			/*background-color: #cccccc;*/
+		}
+	</style>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.4/angular.min.js"></script>
+<body>
+
+	<div>
+		<h1>
+			Sentiment Analyzer for Online Reviews		
+		</h1>
+	</div>
+
+	<div ng-controller='myCtrl'>
+
+	<!-- <select id="model_list">
+		<option disabled selected value></option>
+	 	<option ng-repeat="x in model_names" value="x">{{x}}</option>
+	</select> -->
+		<div>
+			<label> Select a phone:</label>
+			<span>
+				<select ng-model="selectedModel" ng-options="x for x in model_names">
+					<option disabled selected value>-- select phone --</option>
+				</select>
+			</span>
+			
+		</div>
+
+		<div style='align:center'>
+			<div class='image_holder' style='float:left'>
+				<img ng-src="{{models[selectedModel]['location']}}" alt="" style='width:300px; height:350px'>
+			</div>
+
+			<div class='table_holder' style='float:left' align='right'>
+				<table border="1" class="tbody" align='right'>
+					<thead>
+						<tr>
+							<th>
+								Aspect
+							</th>
+							<th>
+								Sentiment
+							</th>
+						</tr>	
+					</thead>
+					
+					<tbody>
+						<tr ng-repeat="aspect in keys(models[selectedModel]['features'])">
+							<td>{{aspect}}</td>
+							<td ng-style="colorSelector(models[selectedModel]['features'][aspect]['sentiment']['overall_sentiment'])">{{models[selectedModel]['features'][aspect]['sentiment']['overall_sentiment']}}</td>
+						</tr>	
+					</tbody>		
+				</table>
+			</div>
+		</div>
+	</div>
+	<script>
+		var app = angular.module('moda',[])
+		app.controller('myCtrl', function($scope, $http) {
+	    	$http.get("mastered.json")
+			.then(function(response) {
+	    		// $scope.models = response.data;
+	    		glo = response.data;
+	    		$scope.models = response.data;
+	    		$scope.model_names = Object.keys($scope.models)
+	    		$scope.keys = Object.keys;
+	    		$scope.colorSelector = function(sentiment){
+	    			// console.log(sentiment);
+	    			// var retval;
+	    			if(sentiment == 'Very Bad'){
+	    				return {'background-color':'#ff3300'};
+	    			}
+	    			else if(sentiment == 'Bad'){
+	    				return {'background-color':'#990000'};
+	    			}
+	    			else if(sentiment == 'Below Average'){
+	    				return {'background-color':'#ff9900'};
+	    			}
+	    			else if(sentiment == 'Average'){
+	    				return {'background-color':'#cccc00'};
+	    			}
+	    			else if(sentiment == 'Above Average'){
+	    				return {'background-color':'#99cc00'};
+	    			}
+	    			else if(sentiment == 'Good'){
+	    				return {'background-color':'#009900'};
+	    			}
+	    			else if(sentiment == 'Very Good'){
+	    				return {'background-color':'#006600'};
+	    			}
+	    			// return retval;
+	    		}
+			});
+		});
+	</script>
+</body>
+</html>

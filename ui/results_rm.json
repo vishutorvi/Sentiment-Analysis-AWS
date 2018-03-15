@@ -1,0 +1,2898 @@
+{
+	"google_pixel2": {
+		"location":"images/pixel2.png",
+		"features":{
+			"rom": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.2936,
+					"overall_sentiment": "Above Average",
+					"pos": 3
+				}
+			},
+			"app": {
+				"adjectives": ["bad", "first", "last", "yearNice", "bad", "first", "last", "yearNice"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.6387,
+					"overall_sentiment": "Very Bad",
+					"pos": 2
+				}
+			},
+			"pop": {
+				"adjectives": ["lesser", "lesser"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.3612,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"bluetooth": {
+				"adjectives": ["simple", "simple"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.2047,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"skin": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0772,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"download": {
+				"adjectives": ["short"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"port": {
+				"adjectives": ["similar", "same", "same"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.2826666666666667,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"capacity": {
+				"adjectives": ["latest", "legitimate", "latest", "legitimate"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.7739,
+					"overall_sentiment": "Very Good",
+					"pos": 0
+				}
+			},
+			"antenna": {
+				"adjectives": ["wired", "better", "sound", "great", "wired", "better", "sound", "great"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.6486,
+					"overall_sentiment": "Good",
+					"pos": 2
+				}
+			},
+			"firmware": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"camera": {
+				"adjectives": ["best", "smart", "bad", "first", "better", "new", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual", "best", "smart", "bad", "first", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual"],
+				"sentiment": {
+					"neg": 15,
+					"score": -0.011187500000000001,
+					"overall_sentiment": "Below Average",
+					"pos": 9
+				}
+			},
+			"android": {
+				"adjectives": ["bad", "bad"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.25384999999999996,
+					"overall_sentiment": "Bad",
+					"pos": 2
+				}
+			},
+			"ppi": {
+				"adjectives": ["more", "original", "more", "more", "original", "more"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.6222,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"sim": {
+				"adjectives": ["dual", "dual", "dual", "dual"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"widget": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"smartphone": {
+				"adjectives": ["perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3142,
+					"overall_sentiment": "Above Average",
+					"pos": 4
+				}
+			},
+			"exchange": {
+				"adjectives": ["sure"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.1376,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"wallpaper": {
+				"adjectives": ["official", "gray", "great", "short", "official", "gray"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.00822500000000001,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"wireless": {
+				"adjectives": ["u", "extra", "Cant", "first", "past", "nai", "sd", "single", "stupid", "expensive", "public", "guest", "fine", "past", "nai", "sd", "single"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.050557142857142856,
+					"overall_sentiment": "Below Average",
+					"pos": 9
+				}
+			},
+			"band": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.5267,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"bit": {
+				"adjectives": ["overpriced", "overpriced"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"bootloader": {
+				"adjectives": ["mean", "mean"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.1531,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"hd": {
+				"adjectives": ["perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3142,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"bar": {
+				"adjectives": ["nav", "certain", "confirm", "wa", "temporary", "nav", "certain", "confirm", "wa", "temporary"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.4215,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"launcher": {
+				"adjectives": ["official", "pixel", "weird", "first", "shitty", "high", "short"],
+				"sentiment": {
+					"neg": 7,
+					"score": -0.14302857142857142,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"pixel": {
+				"adjectives": ["best", "new", "flawless", "buttery", "lagless", "full", "regular", "true", "unbeatable", "nexus", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "front", "bezelless", "regular", "cant", "normal", "better", "first", "much", "awful", "blue", "new", "official", "pixel", "first", "shitty", "high", "normal", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad", "old", "new", "best", "new", "flawless", "buttery", "lagless", "full", "regular", "nexus", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "front", "bezelless", "regular", "cant", "normal", "better", "awful", "blue", "new", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad"],
+				"sentiment": {
+					"neg": 67,
+					"score": 0.08839099999999998,
+					"overall_sentiment": "Average",
+					"pos": 33
+				}
+			},
+			"carrier": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"sd": {
+				"adjectives": ["min"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			}
+
+		}
+		
+	},
+	"google_pixel2_xl": {
+		"location":"images/pixel2_xl.png",
+		"features":{
+			"rom": {
+				"adjectives": ["fast"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.1936,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"app": {
+				"adjectives": ["bad", "first", "last", "yearNice", "bad", "first", "last", "yearNice"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.7287,
+					"overall_sentiment": "Good",
+					"pos": 2
+				}
+			},
+			"ram": {
+				"adjectives": ["spec", "spec", "much", "font"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.487343,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"headphone": {
+				"adjectives": ["lesser", "lesser"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.1412,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"bluetooth": {
+				"adjectives": ["simple", "simple"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.6047,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"gb": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"skin": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.05146666666666667,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"port": {
+				"adjectives": ["same", "shit", "better", "proper", "same"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.14531999999999998,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"capacity": {
+				"adjectives": ["latest", "legitimate", "latest", "legitimate"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.7739,
+					"overall_sentiment": "Very Good",
+					"pos": 0
+				}
+			},
+			"antenna": {
+				"adjectives": ["wired", "better", "sound", "great", "wired", "better", "sound", "great"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.6486,
+					"overall_sentiment": "Good",
+					"pos": 2
+				}
+			},
+			"min": {
+				"adjectives": ["black", "white"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"firmware": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"edge": {
+				"adjectives": ["only"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.43784999999999996,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"camera": {
+				"adjectives": ["best", "smart", "bad", "first", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual", "best", "smart", "deep", "great", "excellent", "happy", "overall", "better", "other", "latest", "Android", "rubbish", "Other", "atrocious", "happy", "better", "perfect", "Other", "atrocious", "happy", "better", "perfect", "bad", "first", "long", "bad", "good", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual"],
+				"sentiment": {
+					"neg": 19,
+					"score": 0.05527999999999999,
+					"overall_sentiment": "Average",
+					"pos": 11
+				}
+			},
+			"android": {
+				"adjectives": ["bad", "bad"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.25384999999999996,
+					"overall_sentiment": "Bad",
+					"pos": 2
+				}
+			},
+			"ppi": {
+				"adjectives": ["more", "original", "more", "more", "original", "more"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.6222,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"sim": {
+				"adjectives": ["dual", "dual", "unlocked", "dual", "dual"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"smartphone": {
+				"adjectives": ["perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "best", "possible", "high", "shitty", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.28198,
+					"overall_sentiment": "Above Average",
+					"pos": 5
+				}
+			},
+			"activation": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.1027,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"wallpaper": {
+				"adjectives": ["official", "gray", "official", "gray", "nav", "key", "black", "hidden", "black"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.19733333333333333,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"wireless": {
+				"adjectives": ["past", "nai", "sd", "single", "stupid", "expensive", "public", "guest", "fine", "past", "nai", "sd", "single"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.06541666666666666,
+					"overall_sentiment": "Below Average",
+					"pos": 7
+				}
+			},
+			"oem": {
+				"adjectives": ["horrible"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.5423,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"bit": {
+				"adjectives": ["overpriced", "blue", "Nexus", "disappointed", "overpriced"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.1536857142857143,
+					"overall_sentiment": "Average",
+					"pos": 5
+				}
+			},
+			"bootloader": {
+				"adjectives": ["mean", "locked", "mean", "unlockable"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.06124,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"hd": {
+				"adjectives": ["perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3142,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"bar": {
+				"adjectives": ["nav", "certain", "confirm", "wa", "temporary", "horrible", "nav", "certain", "confirm", "wa", "temporary", "full", "Second", "noticable", "gray", "nav", "gray", "nav"],
+				"sentiment": {
+					"neg": 3,
+					"score": -0.04238571428571429,
+					"overall_sentiment": "Below Average",
+					"pos": 4
+				}
+			},
+			"launcher": {
+				"adjectives": ["horrible", "new", "exclusive", "own"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.027150000000000007,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"pixel": {
+				"adjectives": ["best", "new", "flawless", "buttery", "lagless", "full", "regular", "nexus", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "front", "bezelless", "regular", "cant", "normal", "better", "awful", "blue", "new", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad", "old", "new", "horrible", "new", "exclusive", "own", "best", "new", "flawless", "buttery", "lagless", "full", "regular", "Next", "better", "great", "screen", "blue", "noticed", "great", "next", "nexus", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "same", "shit", "better", "proper", "happy", "unable", "next", "lol", "fixed", "front", "bezelless", "regular", "cant", "unlocked", "white", "first", "bigger", "older", "hot", "google", "update", "other", "sure", "google", "normal", "better", "awful", "blue", "new", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad"],
+				"sentiment": {
+					"neg": 75,
+					"score": 0.1262576576576577,
+					"overall_sentiment": "Average",
+					"pos": 36
+				}
+			},
+			"carrier": {
+				"adjectives": ["Grumble", "grumble", "exclusive"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.28595,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"root": {
+				"adjectives": ["blue", "great", "muted", "great", "great"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.8287,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			}
+		}
+	},
+	"google_pixel": {
+		"location":"images/pixel-xl.png",
+		"features":{
+			"el": {
+				"adjectives": ["prefiriendo"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"ai": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"app": {
+				"adjectives": ["una", "useless", "nav", "simple", "Unlimited"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.06787142857142857,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"ir": {
+				"adjectives": ["u", "ur", "new"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"stylus": {
+				"adjectives": ["larger", "removable", "u", "yo", "front", "stereo", "smart", "true", "least", "iPad"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.07455,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"apk": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0772,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"qwerty": {
+				"adjectives": ["larger", "removable", "u", "yo", "front", "stereo", "smart"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.2263,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"ar": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.5423,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"im": {
+				"adjectives": ["spectacular"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"skin": {
+				"adjectives": ["revered", "old", "new"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.459,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"tether": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.4215,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"port": {
+				"adjectives": ["new", "more", "specific", "new", "new"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.1094,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"antenna": {
+				"adjectives": ["physical", "same", "cleaner", "long", "close"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.5994,
+					"overall_sentiment": "Good",
+					"pos": 1
+				}
+			},
+			"min": {
+				"adjectives": ["expensive"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"firmware": {
+				"adjectives": ["cheap"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.2263,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"edge": {
+				"adjectives": ["other", "isâ€”between", "lowlight", "clear", "higher", "exynos", "superior", "repainted"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.1373,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"cell": {
+				"adjectives": ["much"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"application": {
+				"adjectives": ["longer", "able", "extended", "huge", "able", "various", "document", "spread", "other", "capable", "desktop", "cloud", "more", "full", "native"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.03962,
+					"overall_sentiment": "Average",
+					"pos": 3
+				}
+			},
+			"bokeh": {
+				"adjectives": ["Dual", "loserjust", "fake"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.4767,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"camera": {
+				"adjectives": ["brief", "portrait", "super", "low", "dual", "same", "perfect", "better", "other", "dual", "best", "available", "dual", "other", "huawei", "wide", "gimmic", "better", "second", "dual", "cant", "lumia", "whole", "new", "more", "great", "god", "bad", "great", "god", "bad", "Dual", "loserjust", "fake", "dual", "front", "better", "expandabilityAndroid", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "best", "best", "sensitive", "best", "landslide", "obvious", "best", "next", "few", "better", "minor", "better", "light", "highestrated", "new", "wireless", "interesting", "aware", "Incredible", "literal", "thereâ€™s", "sweet", "last", "huge", "dual", "big", "sooo", "good", "incredible", "Christian", "full", "strong", "better", "certain", "huge", "last", "other", "isâ€”between", "lowlight", "clear", "best", "ive", "new", "last", "natural", "last", "natural", "tiny", "best", "unlimited", "pixel", "better", "dual", "best", "First", "u", "dual", "expensive", "huge", "more", "great", "best"],
+				"sentiment": {
+					"neg": 51,
+					"score": 0.20578481012658228,
+					"overall_sentiment": "Average",
+					"pos": 28
+				}
+			},
+			"fps": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"brick": {
+				"adjectives": ["biggest", "other", "older", "actual"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"pixel": {
+				"adjectives": ["next", "unsuitable", "solid", "dikhre", "indepth", "other", "lit", "dual", "front", "dual", "Pilar", "ugliest", "first", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "better", "more", "enthusiast", "build", "cheap", "ur", "last", "big", "big", "current", "big", "small", "Cant", "u", "haha", "nito", "lol", "new", "better", "bad", "new", "sure", "sexual", "worth", "expensive", "google", "smart", "super", "expensive", "new", "expensive", "bada", "faster", "google", "smart", "super", "expensive", "new", "expensive", "bada", "faster", "right", "last", "tiny", "bettercamera", "screen", "betterbut", "smooth", "unadultered", "next", "best", "mi", "disappointed", "next", "similar", "First", "u"],
+				"sentiment": {
+					"neg": 53,
+					"score": 0.17153098591549298,
+					"overall_sentiment": "Average",
+					"pos": 18
+				}
+			},
+			"sim": {
+				"adjectives": ["dual"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4019,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"widget": {
+				"adjectives": ["personal", "original"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.12773333333333334,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"smartphone": {
+				"adjectives": ["real", "best", "best", "new", "real", "latest", "larger", "removable", "u", "yo", "front", "stereo", "smart", "particular", "highestrated", "new", "wireless", "interesting", "worst", "best", "best", "amazing", "excellent", "best", "best", "best", "google", "good", "Best", "ðŸ’©", "expensive", "best", "best", "second", "best", "same", "other", "high", "next", "best"],
+				"sentiment": {
+					"neg": 8,
+					"score": 0.3994454545454546,
+					"overall_sentiment": "Above Average",
+					"pos": 14
+				}
+			},
+			"exchange": {
+				"adjectives": ["na"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4172,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"wallpaper": {
+				"adjectives": ["live", "apk", "live", "red", "colorful", "ur", "new", "new"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.0792888888888889,
+					"overall_sentiment": "Average",
+					"pos": 5
+				}
+			},
+			"wireless": {
+				"adjectives": ["bad", "same", "little", "different", "touch", "larger", "removable", "u", "yo", "front", "stereo", "smart", "logic", "next", "logic", "next", "headphone", "new", "live", "facial", "new", "live", "facial", "slight", "longer", "magnetic", "same", "wired", "last", "natural", "google", "nowadays", "expensive", "proprietary"],
+				"sentiment": {
+					"neg": 7,
+					"score": -0.2477875,
+					"overall_sentiment": "Below Average",
+					"pos": 9
+				}
+			},
+			"bit": {
+				"adjectives": ["same", "little", "different", "touch", "regret", "nice", "good", "different"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.3792166666666666,
+					"overall_sentiment": "Above Average",
+					"pos": 5
+				}
+			},
+			"bootloader": {
+				"adjectives": ["bad"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.3401,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"android": {
+				"adjectives": ["dont", "naked", "best", "pixel", "secure", "important", "secret", "literal", "big", "big", "google", "third", "same", "best", "Certain", "simple", "limited", "google", "smart", "super", "expensive", "new", "expensive", "bada", "faster", "stereo", "best", "best", "google", "good", "abt", "vid"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.2729529411764706,
+					"overall_sentiment": "Above Average",
+					"pos": 15
+				}
+			},
+			"bar": {
+				"adjectives": ["nav", "black", "foreign", "high", "lower", "top", "lower", "top", "physical", "same", "cleaner", "long", "close"],
+				"sentiment": {
+					"neg": 3,
+					"score": -0.03423333333333334,
+					"overall_sentiment": "Below Average",
+					"pos": 3
+				}
+			},
+			"cow": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"launcher": {
+				"adjectives": ["new"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0772,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"carrier": {
+				"adjectives": ["cant", "biggest", "rival", "major", "cant", "monthly", "unlocked", "various", "new"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.16114,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"calendar": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"sd": {
+				"adjectives": ["bettercamera", "screen", "betterbut"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4019,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"resolution": {
+				"adjectives": ["great", "other"],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.2846,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"processor": {
+				"adjectives": ["unsuitable", "light", "own", "able", "many", "good", "new"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.49172499999999997,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"browser": {
+				"adjectives": ["perfect", "remote", "brilliant", "other"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.17378,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			}
+		}
+	},
+	"samsung_galaxy_note_8": {
+		"location":"images/sgn.png",
+		"features":{
+			"rom": {
+				"adjectives": ["only", "good", "rid", "buggy", "only", "good", "rid"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.17616,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"stylus": {
+				"adjectives": ["usual", "u", "such", "happy", "i", "extra", "great", "creative", "first", "new", "handy", "Wrong", "dual", "nono", "big", "unrivaled", "next", "impossible", "only", "yellow", "many", "smart", "big", "small", "old", "exact", "same", "plenty", "good", "mere", "other", "decent", "best", "different", "available", "unique", "uniqe", "same", "bigger", "i", "extra", "dual"],
+				"sentiment": {
+					"neg": 25,
+					"score": 0.0761891891891892,
+					"overall_sentiment": "Average",
+					"pos": 12
+				}
+			},
+			"bandwidth": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.34,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"gb": {
+				"adjectives": ["update", "internal", "sd", "sd", "many", "disable", "internal", "sd", "sd", "many", "disable", "ram", "only", "Same", "extra", "sd", "sd", "unlimited", "sd", "sd", "unlimited", "minimum", "serious", "same", "significant", "good", "dead", "internal", "sd", "sd", "many", "disable", "internal", "sd", "sd", "many", "disable", "ram"],
+				"sentiment": {
+					"neg": 13,
+					"score": -0.07487000000000002,
+					"overall_sentiment": "Below Average",
+					"pos": 7
+				}
+			},
+			"skin": {
+				"adjectives": ["least"],
+				"sentiment": {
+					"neg": 3,
+					"score": -0.17656666666666668,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"itu": {
+				"adjectives": ["right"],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.3535,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"terminal": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"theme": {
+				"adjectives": ["certain", "icon", "cool", "iOS", "real", "best"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.307075,
+					"overall_sentiment": "Above Average",
+					"pos": 3
+				}
+			},
+			"pixel": {
+				"adjectives": ["best", "great", "s8", "garbage", "doesnt", "nexus", "mass", "forgive", "latest", "other", "updated", "latest", "important", "itll", "similar", "rich", "most", "u11", "close", "dual", "official", "pixel", "first", "shitty", "high", "normal", "optical", "wide", "new", "best", "ng", "little", "more", "flashy", "u", "front", "more", "effective", "dynamic", "visible", "other", "unimpressive", "sad", "better", "hi", "nice", "happy", "make", "extra", "unnecessary", "processing", "native", "slower", "different", "full", "able", "extra", "s8"],
+				"sentiment": {
+					"neg": 36,
+					"score": 0.19062340425531915,
+					"overall_sentiment": "Average",
+					"pos": 11
+				}
+			},
+			"smartphone": {
+				"adjectives": ["Current", "last", "best", "enough", "Next", "great", "other", "isnt", "smart", "mobile", "accurate", "best", "cheaper", "excessive", "overall", "expensive", "itðŸ˜‚", "same", "average", "true", "greatest", "great", "foreseeable", "valuable", "expensive", "such", "nice", "new", "android", "best", "best", "best", "honest", "i", "superior", "dont", "best", "beautiful", "reasonable", "mobile", "beautyfukk", "much", "pointless", "zoomed", "like", "next", "best", "best", "hard", "dslrrealistic", "fantastic", "other", "unimpressive", "sad", "interested", "useful", "productive", "old", "best", "best", "previous", "best", "enough", "best", "cheaper", "excessive", "overall", "expensive"],
+				"sentiment": {
+					"neg": 29,
+					"score": 0.2800076923076924,
+					"overall_sentiment": "Above Average",
+					"pos": 23
+				}
+			},
+			"dc": {
+				"adjectives": ["È™i", "È™i"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"band": {
+				"adjectives": ["isnt", "compatible", "new", "wifi", "dual", "much", "guess", "hard", "wrong", "first", "isnt", "compatible", "new", "much"],
+				"sentiment": {
+					"neg": 11,
+					"score": 0.031121428571428574,
+					"overall_sentiment": "Average",
+					"pos": 3
+				}
+			},
+			"lcd": {
+				"adjectives": ["best", "u", "best", "galaxy", "iphone", "sole", "such", "premium", "dated"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.2662,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"hid": {
+				"adjectives": ["earlier"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4215,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"qhd": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.2263,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"bit": {
+				"adjectives": ["little", "last", "new", "best", "regret", "â˜º", "dull", "boring", "wrong", "white", "young", "best", "little", "disappointed", "front", "lil", "i", "perfect", "much", "able", "consistent", "sketchy", "underrated", "thr", "note", "little", "last", "subjective", "awesome", "much", "better", "biggest", "wearable", "highlight", "good", "Happy", "great", "new", "open", "last", "rainy", "little", "loud", "great", "new", "lil", "American", "present", "little", "special", "bad", "real", "early", "first", "anniversary", "due", "Other", "new", "other", "little", "much", "black", "twenty", "least", "little", "little", "little", "disappointed", "front", "lil", "i", "last"],
+				"sentiment": {
+					"neg": 25,
+					"score": 0.13553555555555555,
+					"overall_sentiment": "Average",
+					"pos": 20
+				}
+			},
+			"bar": {
+				"adjectives": ["great", "underrated", "high", "red", "white", "unusual", "flat", "crappy", "little", "most"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.2506875,
+					"overall_sentiment": "Above Average",
+					"pos": 4
+				}
+			},
+			"ppi": {
+				"adjectives": ["i", "lame", "blu", "much", "lg", "due", "higher", "larger", "higher", "due", "higher", "larger", "higher"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.6179666666666667,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"upload": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.3182,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"mhz": {
+				"adjectives": ["next", "next"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"sim": {
+				"adjectives": ["dual", "best", "mine", "ok", "fifth", "havent", "dual", "better", "Would", "good", "dual", "u", "sim", "sim", "dual", "traditional", "available", "dual", "u", "Chinese", "markate", "exclusive", "u", "sim", "sim", "dual", "traditional", "available", "dual", "u", "Chinese", "markate", "exclusive", "u", "sim", "sim", "dual", "traditional", "available", "dual", "u", "Chinese", "markate", "exclusive", "u", "sim", "sim", "dual", "traditional", "available", "dual", "u", "Chinese", "markate", "exclusive", "single", "nice", "dual", "other", "nice", "dual", "other", "dual", "dual"],
+				"sentiment": {
+					"neg": 11,
+					"score": 0.46879166666666655,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"qi": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"tower": {
+				"adjectives": ["international", "fast"],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.2418,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"dpi": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"el": {
+				"adjectives": ["llega", "esperando", "una", "esperando"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 4
+				}
+			},
+			"droid": {
+				"adjectives": ["best", "smart"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.15689999999999998,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"packet": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"download": {
+				"adjectives": ["faster", "maximum", "Ã—", "short"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"port": {
+				"adjectives": ["starboard", "single", "foreign", "starboard"],
+				"sentiment": {
+					"neg": 4,
+					"score": -0.0551,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"capacity": {
+				"adjectives": ["Small", "small", "Best", "huge", "next", "great", "worth", "smaller", "s8", "samsung", "last", "huge", "next", "great", "worth", "smaller", "s8", "samsung", "last", "minimum", "biggest", "great", "battery", "disappointing"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.1225,
+					"overall_sentiment": "Average",
+					"pos": 5
+				}
+			},
+			"ice": {
+				"adjectives": ["cold", "near", "cold", "near", "due", "next", "few", "downed", "due", "terrible", "massive", "due", "nice", "old", "other", "itselfI", "nice", "neckEvery", "true", "big", "favorite", "back", "big", "favorite", "back"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.21571249999999997,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"cell": {
+				"adjectives": ["dull", "dim", "blackish", "amazing", "more", "extra", "crazy", "TMobile", "nice", "poor", "Last", "tru", "first", "new", "empty", "rural", "good", "present", "drank"],
+				"sentiment": {
+					"neg": 9,
+					"score": -0.05194166666666666,
+					"overall_sentiment": "Below Average",
+					"pos": 3
+				}
+			},
+			"avatar": {
+				"adjectives": ["uneventful", "harvest", "rustic", "pastoral", "japanese"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.4795,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"widget": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"hdmi": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"exchange": {
+				"adjectives": ["silver", "blue", "few", "present", "happy", "little", "buddy", "excited", "other", "elephant"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.39254285714285714,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"bootloader": {
+				"adjectives": ["unlocked", "unlocked", "unlock", "international", "unlocked"],
+				"sentiment": {
+					"neg": 4,
+					"score": -0.0738,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"cow": {
+				"adjectives": ["next"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"carrier": {
+				"adjectives": ["new", "down", "monthly", "unlocked", "next", "different", "different", "international", "unlocked", "cheaper", "available", "dualSIM", "affect", "available", "dualSIM", "affect", "down", "palatable", "next", "few", "more", "last", "little", "warm"],
+				"sentiment": {
+					"neg": 16,
+					"score": -0.09551052631578948,
+					"overall_sentiment": "Below Average",
+					"pos": 3
+				}
+			},
+			"wll": {
+				"adjectives": ["unhappy", "much", "user", "wll"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0129,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"lte": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.4019,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"processor": {
+				"adjectives": ["more", "different", "better", "only", "asian", "shitty", "please", "give", "best", "little", "super", "vivid", "real", "seethe", "powerful", "best", "overall", "best", "super", "different", "efficient", "poor", "best", "Much", "faster", "better", "better", "useless", "shitty", "common", "better", "bigger", "awesome", "nice", "serious", "same", "significant", "old", "new", "full", "best", "different", "efficient"],
+				"sentiment": {
+					"neg": 10,
+					"score": 0.33190000000000003,
+					"overall_sentiment": "Above Average",
+					"pos": 12
+				}
+			},
+			"block": {
+				"adjectives": ["contiguous", "different", "first", "bitter", "complete", "best", "local", "long", "last", "best", "best", "first", "spent", "several"],
+				"sentiment": {
+					"neg": 6,
+					"score": -0.01673750000000001,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"app": {
+				"adjectives": ["frequent", "dreaded", "update", "worst", "update", "next", "best", "normal", "unlock", "older", "rid", "newer", "great", "fantastic", "cool", "available", "least", "better", "most", "amateur", "Most", "new", "better", "slow", "poor", "unpredictable", "nice", "more", "much", "wildest", "Most", "new"],
+				"sentiment": {
+					"neg": 21,
+					"score": 0.14468928571428571,
+					"overall_sentiment": "Average",
+					"pos": 7
+				}
+			},
+			"pop": {
+				"adjectives": ["front", "u", "willing", "u", "great", "true", "little", "single", "specific", "vibrant", "object", "more", "plenty", "good", "mere", "blue", "foam"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.32675000000000004,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"dun": {
+				"adjectives": ["poor", "battery"],
+				"sentiment": {
+					"neg": 3,
+					"score": -0.2615,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"aosp": {
+				"adjectives": ["give"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"bokeh": {
+				"adjectives": ["Optical", "great", "professional", "simple", "strange", "pixellated"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.14086666666666667,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"camera": {
+				"adjectives": ["crappy", "indoor", "back", "normal", "wide", "update", "Good", "Curious", "para", "best", "particular", "customizable", "better", "much", "best", "dual", "dual", "main", "massive", "amazing", "spec", "same", "ram", "special", "amazing", "spec", "same", "ram", "special", "mini", "fast", "struggle", "tge", "dearest", "only", "best", "best", "best", "smart", "live", "good", "u", "big", "east", "dual", "back", "good", "able", "better", "better", "s8", "last", "better", "thanstop", "several", "locked", "screen", "stupid", "front", "more", "standart", "shitty", "name", "samsung", "only", "weaker", "perfect", "front", "perfect", "front", "more", "more", "sturdily", "vert", "reviewer", "famous", "horrific", "great", "inferior", "colour", "youre", "front", "last", "original", "net", "close", "big", "good", "good", "dual", "best", "good", "superior", "smaller", "new", "best", "best", "dead", "usagefor", "social", "special", "wide", "superior", "useful", "best", "best", "cheaper", "other", "darn", "slow", "superior", "wide", "sound", "fingerprint", "few", "last", "disappointed", "front", "good", "lg", "great", "much", "normal", "good", "Chinese", "only", "similar", "i", "mobile", "black", "same", "better", "secondary", "wide", "Dual", "low", "better", "only", "dual", "essential", "good", "smooth", "clean", "last", "own", "yea", "wireless", "essential", "nie", "jest", "lg", "better", "overall", "cheaper", "better", "back", "good", "tiny", "black", "black", "different", "bad", "better", "bottom", "full", "functional", "dual", "dynamic", "excellent", "best", "dual", "dual", "panoramic", "dual", "panoramic", "dual", "panoramic", "screen", "fastest", "good", "real", "significant", "previous", "dual", "u", "better", "dual", "Dual", "dual", "many", "good", "real", "digital", "high", "better", "back", "next", "worse", "slow", "next", "high", "better", "back", "next", "worse", "slow", "next", "comfortable", "horizontal", "next", "dual", "front", "best", "recent", "Cant", "gb", "expandable", "same", "better", "chrome", "flash", "premium", "perfect", "plastic", "great", "nice", "decent", "expandable", "good", "Much", "faster", "better", "perfect", "gorgeous", "great", "build", "beautiful", "great", "audio", "best", "ultrapixel", "fine", "superrb", "sleek", "awesome", "awesome", "better", "better", "only", "new", "dual", "new", "dual", "bigger", "worse", "due", "high", "dual", "wide", "optical", "multiple", "focal", "big", "Dual", "similar", "most", "Chinese", "creative", "next", "other", "cheaper", "most", "dual", "great", "aspect", "great", "different", "Removable", "front", "flash", "aspect", "great", "different", "Removable", "front", "flash", "best", "productivityMultitaskingMultiwindow", "Dual", "better", "biggest", "many", "accurate", "excellent", "due", "good", "nail", "single", "able", "dslrrealistic", "fantastic", "other", "unimpressive", "sad", "new", "hi", "best", "pen", "extra", "solid", "same", "stupid", "dual", "worth", "extra", "dual", "worth", "extra", "better", "awfull", "interested", "better", "proper", "android", "dual", "better", "personal", "cheaper", "u", "u", "hate", "much", "same", "same", "same", "same", "ugura", "krey", "better", "same", "serious", "same", "significant", "previous", "best", "nice", "same", "great", "best", "other", "best", "nice", "best", "dual", "nice", "right", "quick", "le", "awesome", "first", "dual", "screen", "front", "dual", "back", "front", "dual", "back", "front", "dual", "back", "wide", "angled", "professional", "simple", "low", "better", "bigger", "decent", "big", "understand", "a5", "better", "samsung", "u", "handwritten", "glad", "decent", "better", "different", "large", "shallow", "internal", "dual", "other", "cool", "thereâ€™re", "many", "filmic", "new", "old", "better", "selfie", "rear", "front", "front", "front", "front", "new", "great", "sorry", "essential", "much", "xiaomi", "best", "better", "dual", "new", "wide", "same", "rear", "only", "weaker", "dual", "social", "special", "wide", "superior", "useful", "best", "best", "cheaper", "other", "darn", "slow", "superior", "wide", "sound", "fingerprint", "few", "last", "disappointed", "front", "good", "lg", "great", "much", "normal", "good", "Chinese", "only", "similar", "i", "mobile", "black", "same", "better", "secondary", "wide", "Dual", "low", "better", "only", "dual", "essential", "good", "smooth", "clean", "last", "own", "yea", "wireless", "essential", "nie", "jest", "lg", "better", "overall", "cheaper", "better", "back", "good", "tiny", "black", "black", "different", "bad", "better", "bottom", "dual", "many", "dual"],
+				"sentiment": {
+					"neg": 186,
+					"score": 0.21865739436619677,
+					"overall_sentiment": "Average",
+					"pos": 98
+				}
+			},
+			"gpu": {
+				"adjectives": ["better", "decent", "k3"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.058499999999999996,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"brick": {
+				"adjectives": ["extra", "massivebeautiful", "massive", "portable", "frigging", "local", "best", "n", "big", "old", "iphone", "rich", "high", "great", "massivebeautiful", "massive", "portable"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.12001111111111112,
+					"overall_sentiment": "Average",
+					"pos": 4
+				}
+			},
+			"gps": {
+				"adjectives": ["dedicated", "ive", "personal", "Personal"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.2848333333333333,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"ir": {
+				"adjectives": ["serious", "same", "significant"],
+				"sentiment": {
+					"neg": 4,
+					"score": -0.19825999999999996,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"kb": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4404,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"broadcast": {
+				"adjectives": ["tonight"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"launcher": {
+				"adjectives": ["official", "pixel", "weird", "first", "shitty", "high", "short", "available"],
+				"sentiment": {
+					"neg": 7,
+					"score": -0.11124444444444442,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"ui": {
+				"adjectives": ["fantastic"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.5574,
+					"overall_sentiment": "Good",
+					"pos": 1
+				}
+			},
+			"root": {
+				"adjectives": ["able", "able", "next", "unlock", "amanita", "red", "capped", "white", "coniferous"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.0256,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"browser": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"pin": {
+				"adjectives": ["consecutive", "replicated", "whole", "mindâ€™s", "vivid", "clear", "quick", "consecutive", "replicated"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.19656,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"ai": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"ip": {
+				"adjectives": ["wireless", "wireless"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.5188666666666667,
+					"overall_sentiment": "Very Bad",
+					"pos": 2
+				}
+			},
+			"ram": {
+				"adjectives": ["update", "pen", "screen", "touch", "Adoptable", "more", "different", "better", "please", "give", "minimum", "internal", "internal", "sd", "sd", "many", "disable", "much", "expandable", "much", "necessary", "need", "true", "more", "extra", "unlikely", "Cant", "gb", "expandable", "same", "better", "good", "6gb", "best", "better", "internal", "pen", "extra", "solid", "expandable", "leak", "unreliable", "interested", "huge", "ip68", "itI", "note", "god", "mobile", "good", "dead", "more", "best", "old", "new", "old", "new", "minimum", "internal", "internal", "sd", "sd", "many", "disable", "much", "unlikely"],
+				"sentiment": {
+					"neg": 43,
+					"score": 0.09103050847457629,
+					"overall_sentiment": "Average",
+					"pos": 16
+				}
+			},
+			"spectrum": {
+				"adjectives": ["new", "new"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3612,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"vr": {
+				"adjectives": ["current", "disabled"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.14213333333333336,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"im": {
+				"adjectives": ["usual", "last", "new", "best", "regret", "â˜º", "powerful", "note", "pro", "heavy", "bad", "heavy", "bad", "ive", "active", "last", "nice", "ur", "ðŸ¤·ðŸ¤·", "mad", "free", "nope", "gold", "black", "new", "useless", "short", "flip", "few", "chaira", "i", "present", "nice", "uptown", "best", "ive", "wa", "happiest", "happy", "first", "more", "irishman", "im", "hot", "i", "laptop", "gizmodo", "happy", "early", "coldest", "mashsable", "heavy", "bad", "heavy", "bad"],
+				"sentiment": {
+					"neg": 26,
+					"score": 0.09006388888888889,
+					"overall_sentiment": "Average",
+					"pos": 10
+				}
+			},
+			"sar": {
+				"adjectives": ["only"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.3612,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"sap": {
+				"adjectives": ["insert", "fake"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.4767,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"antenna": {
+				"adjectives": ["new"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"min": {
+				"adjectives": ["august", "i", "bad", "nooooo"],
+				"sentiment": {
+					"neg": 4,
+					"score": -0.09247499999999999,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"firmware": {
+				"adjectives": ["advanced"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.3167,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"application": {
+				"adjectives": ["mic", "i", "mic", "start", "i", "mic", "start"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.1956166666666667,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"fps": {
+				"adjectives": ["slow"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"android": {
+				"adjectives": ["triangle", "nexus", "previous", "best", "happy", "minimal", "most", "nah", "slower", "big", "only", "great", "audio", "actual", "same", "ä½†å°ç±³å†‡", "such", "nice", "new", "android", "best", "fuckin", "great", "build", "best", "smartest", "amazing", "great", "build", "great", "best", "best", "u", "future", "build", "manageable", "awesome", "itâ€™s", "other", "light", "only", "alwaysworst", "short", "laggy", "false", "previous"],
+				"sentiment": {
+					"neg": 7,
+					"score": 0.20325714285714286,
+					"overall_sentiment": "Average",
+					"pos": 28
+				}
+			},
+			"pan": {
+				"adjectives": ["flour"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"map": {
+				"adjectives": ["big", "big", "signal", "such", "dark", "difficult", "wildest", "wildest"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.16463333333333333,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"wallpaper": {
+				"adjectives": ["featured", "usual", "new", "possible", "new", "extra", "wan", "great", "short", "happy", "complete"],
+				"sentiment": {
+					"neg": 11,
+					"score": 0.27975,
+					"overall_sentiment": "Above Average",
+					"pos": 5
+				}
+			},
+			"fcc": {
+				"adjectives": ["Net", "super", "fast", "happy"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4593,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"mah": {
+				"adjectives": ["small", "huge", "next", "great", "worth", "smaller", "s8", "samsung", "last", "small"],
+				"sentiment": {
+					"neg": 9,
+					"score": 0.06509166666666667,
+					"overall_sentiment": "Average",
+					"pos": 3
+				}
+			},
+			"ois": {
+				"adjectives": ["wireless", "wireless"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.38915,
+					"overall_sentiment": "Bad",
+					"pos": 2
+				}
+			},
+			"wireless": {
+				"adjectives": ["free", "additional", "beautiful", "many", "more", "latest", "beautiful", "many", "more", "latest", "last", "few", "direct", "main", "good", "removable", "u", "major", "fast", "few", "local", "happy", "free", "additional"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.026488235294117646,
+					"overall_sentiment": "Below Average",
+					"pos": 16
+				}
+			},
+			"gsm": {
+				"adjectives": ["unlocked"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"ghz": {
+				"adjectives": ["happiest"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.899,
+					"overall_sentiment": "Very Good",
+					"pos": 1
+				}
+			},
+			"edge": {
+				"adjectives": ["larger", "beautiful", "better", "smart", "fix", "only", "first", "u", "amazing", "honest", "amazing", "flat", "last", "flat", "special", "best", "great", "rectangular", "excited", "cool", "excited", "cool", "good", "ill", "juest", "lg", "better", "easy", "previous", "new", "marked", "true", "ceramic", "ceramic", "itðŸ˜‚", "same", "average", "true", "greatest", "great", "stylus", "rubbish", "quick", "curved", "new", "better", "burn", "recent", "Cant", "gb", "expandable", "same", "better", "galaxy", "ðŸ˜‚ðŸ˜‚ðŸ˜‚ðŸ˜‚", "dual", "last", "total", "luxurious", "awful", "high", "fest", "bigger", "premium", "obsolete", "shitty", "new", "new", "smaller", "awful", "awkward", "real", "physical", "fine", "Cant", "screen", "new", "bigger", "instant", "much", "expensive", "better", "new", "marked", "true", "ceramic", "ceramic"],
+				"sentiment": {
+					"neg": 78,
+					"score": 0.04706907216494847,
+					"overall_sentiment": "Average",
+					"pos": 19
+				}
+			},
+			"modem": {
+				"adjectives": ["faster", "maximum", "Ã—"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"resolution": {
+				"adjectives": ["full", "several", "locked", "screen", "lower", "brightest", "punchy", "vivid", "highest", "pixel", "deepest", "black", "other", "happy", "wa", "full", "screen", "more", "red", "screen", "screen", "more", "red", "screen", "dual", "make", "extra", "unnecessary", "processing", "native", "slower", "Screen", "screen", "smaller", "lower", "integrated", "full", "wa", "full"],
+				"sentiment": {
+					"neg": 15,
+					"score": 0.1741,
+					"overall_sentiment": "Average",
+					"pos": 5
+				}
+			},
+			"cpu": {
+				"adjectives": ["essential", "good", "smooth", "clean", "last", "k3", "essential", "good", "smooth", "clean", "last"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.34935,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"sd": {
+				"adjectives": ["new", "sd", "sd", "unlimited", "u", "sim", "sim", "dual", "traditional", "available", "dual", "u", "Chinese", "markate", "exclusive", "removable", "nice", "dual", "other", "app"],
+				"sentiment": {
+					"neg": 11,
+					"score": 0.046424999999999994,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			}
+		}
+		
+	},
+	"google_pixel_xl": {
+		"location":"images/pixel-xl.png",
+		"features":{
+			"el": {
+				"adjectives": ["prefiriendo", "prefiriendo"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 4
+				}
+			},
+			"droid": {
+				"adjectives": ["original", "original"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.3182,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"rom": {
+				"adjectives": ["smaller", "atleast", "smaller", "atleast"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.0108,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"app": {
+				"adjectives": ["simple", "bad", "first", "last", "yearNice", "good", "prompt", "poor", "important", "other", "lucky", "disappointing", "pet", "current", "website", "such", "shite", "simple", "bad", "first", "last", "yearNice", "big", "beautiful", "lovelywhen", "thatoreo", "red", "beautiful", "lovelywhen", "thatoreo", "red", "good", "prompt", "poor", "important", "other", "lucky", "disappointing", "pet", "current", "same", "same", "website", "such", "shite"],
+				"sentiment": {
+					"neg": 23,
+					"score": 0.12359090909090908,
+					"overall_sentiment": "Average",
+					"pos": 10
+				}
+			},
+			"ram": {
+				"adjectives": ["spec", "spec", "much", "font", "Screen", "more", "noticeable", "premium", "stupid"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.37834999999999996,
+					"overall_sentiment": "Bad",
+					"pos": 2
+				}
+			},
+			"pop": {
+				"adjectives": ["lesser", "Oversaturated", "lesser", "beautiful", "lovelywhen", "thatoreo", "red", "Oversaturated"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.11731999999999998,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"bluetooth": {
+				"adjectives": ["simple", "simple"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.2047,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"stylus": {
+				"adjectives": ["larger", "removable", "u", "yo", "front", "stereo", "smart", "decent", "good", "dual", "larger", "removable", "u", "yo", "front", "stereo", "smart", "decent", "good"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.11862000000000003,
+					"overall_sentiment": "Average",
+					"pos": 5
+				}
+			},
+			"apk": {
+				"adjectives": ["moded", "moded"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"qwerty": {
+				"adjectives": ["larger", "removable", "u", "yo", "front", "stereo", "smart", "larger", "removable", "u", "yo", "front", "stereo", "smart"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.2263,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"ar": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.5423,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"im": {
+				"adjectives": ["i", "i", "mybest", "i", "i", "mybest"],
+				"sentiment": {
+					"neg": 15,
+					"score": -0.004839999999999993,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"gb": {
+				"adjectives": ["More", "huge"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.2044,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"skin": {
+				"adjectives": ["revered", "old", "new", "revered", "old", "new"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.1792,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"download": {
+				"adjectives": ["more", "screen", "i", "more", "screen", "i"],
+				"sentiment": {
+					"neg": 3,
+					"score": -0.19733333333333333,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"port": {
+				"adjectives": ["new", "more", "specific", "new", "shit", "better", "proper", "same", "new", "more", "specific", "new", "shit", "better", "proper", "same"],
+				"sentiment": {
+					"neg": 8,
+					"score": -0.155175,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"wan": {
+				"adjectives": ["whole", "nexus"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.7506,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"capacity": {
+				"adjectives": ["latest", "legitimate", "latest", "legitimate"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.6799,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"antenna": {
+				"adjectives": ["wired", "better", "sound", "great", "wired", "better", "sound", "great"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.6486,
+					"overall_sentiment": "Good",
+					"pos": 2
+				}
+			},
+			"min": {
+				"adjectives": ["interrupt", "high", "excessive", "black", "white", "interrupt", "high", "excessive"],
+				"sentiment": {
+					"neg": 7,
+					"score": -0.0028857142857142853,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"firmware": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"edge": {
+				"adjectives": ["big", "saturated", "blue", "different", "white", "new", "better", "affordable", "solid", "perfect", "best", "pathetic", "thier", "only", "big", "saturated", "blue", "different", "white", "new", "magnetic", "thick", "better", "affordable", "solid", "tap", "generous", "da", "open", "last", "perfect", "best", "pathetic", "gor", "thier"],
+				"sentiment": {
+					"neg": 18,
+					"score": 0.049828124999999994,
+					"overall_sentiment": "Average",
+					"pos": 14
+				}
+			},
+			"cell": {
+				"adjectives": ["much", "unlocked", "best", "much", "unlocked", "best"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.35960000000000003,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"application": {
+				"adjectives": ["longer", "able", "extended", "huge", "longer", "able", "extended", "huge"],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.3182,
+					"overall_sentiment": "Bad",
+					"pos": 2
+				}
+			},
+			"camera": {
+				"adjectives": ["brief", "portrait", "super", "low", "dual", "same", "perfect", "better", "other", "dual", "expandabilityAndroid", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "best", "best", "sensitive", "best", "landslide", "obvious", "best", "next", "few", "better", "minor", "better", "light", "highestrated", "new", "wireless", "interesting", "aware", "Incredible", "literal", "thereâ€™s", "sweet", "last", "huge", "dual", "big", "sooo", "good", "incredible", "Christian", "best", "smart", "other", "latest", "Android", "rubbish", "bad", "first", "awesome", "other", "best", "worse", "worse", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "Amazing", "ta", "extra", "poor", "purple", "itâ€™s", "distorted", "disappointing", "front", "main", "front", "main", "bad", "next", "pet", "current", "Beautiful", "least", "only", "fluid", "audio", "better", "most", "best", "dead", "usagefor", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual", "unbiased", "complete", "dual", "physical", "uglier", "amazing", "unlimited", "best", "dual", "new", "mobile", "best", "normal", "underrated", "super", "fantastic", "unlimited", "free", "awesome", "cool", "stable", "other", "cool", "update", "dual", "brief", "portrait", "super", "low", "dual", "same", "perfect", "better", "other", "dual", "expandabilityAndroid", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "best", "best", "sensitive", "best", "landslide", "obvious", "best", "next", "few", "better", "minor", "better", "light", "highestrated", "new", "wireless", "interesting", "aware", "Incredible", "literal", "thereâ€™s", "sweet", "last", "huge", "dual", "big", "sooo", "good", "incredible", "Christian", "digital", "certain", "nearlyALL", "digital", "digital", "certain", "nearlyALL", "digital", "magical", "best", "smart", "deep", "great", "excellent", "happy", "overall", "better", "other", "latest", "Android", "rubbish", "Other", "atrocious", "happy", "better", "perfect", "Other", "atrocious", "happy", "better", "perfect", "bad", "first", "long", "bad", "good", "awesome", "other", "best", "worse", "worse", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "i", "best", "ok", "good", "best", "able", "best", "big", "regular", "such", "humongous", "great", "new", "Amazing", "dual", "ta", "extra", "poor", "purple", "itâ€™s", "distorted", "disappointing", "tough", "best", "dual", "rear", "standard", "wideangle", "expanded", "front", "wideangle", "front", "main", "front", "main", "bad", "next", "pet", "current", "slow", "Good", "oneplus", "better", "Beautiful", "least", "only", "fluid", "audio", "better", "most", "best", "dead", "usagefor", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual", "same", "dual", "similar", "same", "dual", "similar", "unbiased", "complete", "dual", "physical", "no1", "best", "android", "unlimited", "u", "best", "better", "better", "huge", "better", "dual", "main", "other", "dual", "main", "other", "uglier", "amazing", "unlimited"],
+				"sentiment": {
+					"neg": 113,
+					"score": 0.19097049180327869,
+					"overall_sentiment": "Average",
+					"pos": 70
+				}
+			},
+			"fps": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"digital": {
+				"adjectives": ["much", "PIXEL"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4939,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"android": {
+				"adjectives": ["dont", "naked", "best", "pixel", "secure", "important", "secret", "literal", "big", "big", "google", "third", "same", "best", "Certain", "simple", "limited", "disappointing", "vanilla", "secondary", "great", "Fantastic", "same", "i", "dang", "bad", "best", "higher", "same", "other", "same", "dont", "naked", "best", "pixel", "secure", "important", "secret", "literal", "big", "big", "google", "third", "same", "best", "Certain", "simple", "limited", "disappointing", "vanilla", "secondary", "great", "Fantastic", "same", "i", "dang", "ready", "many", "shit", "bad", "last", "best", "viable", "best", "higher"],
+				"sentiment": {
+					"neg": 8,
+					"score": 0.14202407407407408,
+					"overall_sentiment": "Average",
+					"pos": 46
+				}
+			},
+			"pixel": {
+				"adjectives": ["next", "unsuitable", "solid", "ugliest", "first", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "better", "more", "enthusiast", "build", "cheap", "ur", "last", "big", "big", "current", "big", "small", "Cant", "u", "haha", "nito", "lol", "new", "better", "bad", "new", "best", "new", "flawless", "buttery", "lagless", "full", "regular", "nexus", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "same", "shit", "better", "proper", "happy", "unable", "next", "lol", "fixed", "front", "bezelless", "regular", "cant", "normal", "better", "bad", "most", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "screen", "next", "few", "smaller", "standard", "atrocious", "ultra", "ðŸ‘Ž", "ðŸ‘Ž", "only", "stockAndroid", "mediocre", "several", "important", "bad", "next", "v20", "uglier", "new", "next", "best", "same", "many", "google", "new", "black", "fabric", "sheep", "awful", "blue", "new", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad", "Cant", "nexus", "thn", "nexus", "frank", "many", "google", "pixel", "free", "i", "google", "pixel", "free", "i", "im", "navy", "google", "awsome", "pixel", "af", "pro", "note7", "pro", "other", "same", "same", "nexus", "same", "pathetic", "first", "regular", "first", "little", "flashing", "first", "little", "flashing", "sure", "current", "sure", "current", "next", "wrong", "smallest", "old", "new", "original", "strong", "next", "next", "unsuitable", "solid", "ugliest", "first", "batter", "beautiful", "best", "amazing", "cheaper", "pixle", "better", "more", "enthusiast", "build", "cheap", "ur", "last", "big", "big", "current", "big", "small", "Cant", "u", "haha", "nito", "lol", "new", "better", "bad", "new", "horrible", "new", "exclusive", "own", "best", "new", "flawless", "buttery", "lagless", "full", "regular", "Next", "better", "great", "screen", "blue", "noticed", "great", "next", "nexus", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "same", "shit", "better", "proper", "happy", "unable", "next", "lol", "fixed", "front", "bezelless", "regular", "cant", "unlocked", "white", "first", "bigger", "older", "hot", "google", "update", "other", "sure", "google", "past", "update", "normal", "better", "other", "Android", "screen", "bad", "most", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "screen", "best", "next", "vivid", "best", "next", "vivid", "regular", "last", "nexus", "last", "serious", "bad", "next", "few", "smaller", "easy", "enough", "desired", "user", "new", "many", "little", "smoother", "dont", "recent", "many", "little", "smoother", "dont", "recent", "dual", "regular", "such", "humongous", "great", "bigger", "thousand", "next", "first", "much", "original", "great", "old", "satisfying", "only", "original", "original", "high", "only", "original", "original", "high", "second", "asho", "squeeze", "standard", "atrocious", "ultra", "ðŸ‘Ž", "ðŸ‘Ž", "only", "stockAndroid", "mediocre", "several", "important", "bad", "next", "v20", "uglier", "good", "happy", "most", "deep", "best", "Android", "update", "andriod", "exact", "update", "update", "andriod", "exact", "update", "update", "andriod", "exact", "update", "new", "next", "weird", "entire", "new", "better", "better", "better", "faultless", "awesome", "doesnt", "nice", "best", "bad", "total", "unlockable", "exclusive", "same", "many", "google", "new", "black", "fabric", "sheep", "awful", "blue", "new", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad", "cant", "next", "Cant", "nexus", "thn", "nexus", "frank", "many", "google", "pixel", "free", "i", "google", "pixel", "free", "i", "im", "navy", "google", "awsome", "pixel", "af", "pro", "note7", "pro", "other", "same", "same", "nexus", "same", "pathetic", "first", "regular", "amazing", "regular", "better", "better", "er", "original", "best", "first", "little", "flashing", "first", "little", "flashing", "long", "original", "dual", "main", "other", "awesome", "new", "sure", "current", "sure", "current", "next"],
+				"sentiment": {
+					"neg": 311,
+					"score": 0.10772612826603334,
+					"overall_sentiment": "Average",
+					"pos": 110
+				}
+			},
+			"sim": {
+				"adjectives": ["dual", "dual", "dual", "old", "unicom", "dual", "unlocked", "dual", "dual", "pixel2", "dual"],
+				"sentiment": {
+					"neg": 10,
+					"score": 0.12442,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"map": {
+				"adjectives": ["poor", "purple", "itâ€™s", "distorted", "poor", "purple", "itâ€™s", "distorted"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.7269,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"smartphone": {
+				"adjectives": ["real", "best", "best", "new", "real", "latest", "larger", "removable", "u", "yo", "front", "stereo", "smart", "particular", "highestrated", "new", "wireless", "interesting", "worst", "excellent", "burnin", "normal", "other", "pixel", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "spen", "other", "spen", "other", "great", "perfectSO", "good", "great", "perfectSO", "good", "best", "real", "best", "best", "new", "real", "latest", "larger", "removable", "u", "yo", "front", "stereo", "smart", "particular", "highestrated", "new", "wireless", "interesting", "worst", "excellent", "best", "possible", "high", "shitty", "wa", "previous", "fifthrated", "burnin", "normal", "other", "pixel", "old", "unfitting", "good", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "spen", "other", "spen", "other", "great", "perfectSO", "good", "great", "perfectSO", "good"],
+				"sentiment": {
+					"neg": 21,
+					"score": 0.17923999999999998,
+					"overall_sentiment": "Average",
+					"pos": 24
+				}
+			},
+			"exchange": {
+				"adjectives": ["available", "available"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"ota": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"activation": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.1027,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"wallpaper": {
+				"adjectives": ["live", "apk", "live", "official", "gray", "nav", "key", "black", "hidden", "black", "horrible", "live", "apk", "live", "official", "gray", "nav", "key", "black", "hidden", "black"],
+				"sentiment": {
+					"neg": 4,
+					"score": -0.07943,
+					"overall_sentiment": "Below Average",
+					"pos": 6
+				}
+			},
+			"wireless": {
+				"adjectives": ["larger", "removable", "u", "yo", "front", "stereo", "smart", "logic", "next", "logic", "next", "headphone", "new", "live", "facial", "new", "live", "facial", "many", "other", "sd", "great", "better", "past", "nai", "sd", "single", "next", "same", "missing", "sd", "waterproof", "expandable", "screen", "lossless", "stupid", "expensive", "public", "guest", "fine", "expensive", "nonexistent", "dual", "larger", "removable", "u", "yo", "front", "stereo", "smart", "logic", "next", "logic", "next", "headphone", "new", "live", "facial", "new", "live", "facial", "many", "other", "sd", "single", "wide", "great", "better", "butter", "past", "nai", "sd", "single", "smaller", "next", "same", "missing", "sd", "waterproof", "expandable", "screen", "lossless"],
+				"sentiment": {
+					"neg": 24,
+					"score": -0.1391333333333333,
+					"overall_sentiment": "Below Average",
+					"pos": 24
+				}
+			},
+			"band": {
+				"adjectives": ["full", "white", "nav", "nav"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.2679333333333333,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"lcd": {
+				"adjectives": ["own", "own"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"oem": {
+				"adjectives": ["horrible"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.5423,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"bit": {
+				"adjectives": ["nice", "good", "bad", "big", "saturated", "blue", "different", "white", "little", "good", "real", "bad", "overpriced", "expensive", "little", "little", "expensive", "little", "little", "familiar", "ugh", "nice", "good", "blue", "Nexus", "disappointed", "bad", "big", "saturated", "blue", "different", "white", "little", "good", "slow", "real", "bad", "overpriced", "expensive", "little", "little", "expensive", "little", "little", "familiar"],
+				"sentiment": {
+					"neg": 16,
+					"score": 0.03636111111111113,
+					"overall_sentiment": "Average",
+					"pos": 20
+				}
+			},
+			"bootloader": {
+				"adjectives": ["bad", "mean", "bad", "locked", "mean", "unlockable"],
+				"sentiment": {
+					"neg": 14,
+					"score": 0.18728571428571428,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"ois": {
+				"adjectives": ["underrated", "super", "fantastic", "unlimited", "free", "awesome", "cool", "stable", "other", "cool", "update"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.8479,
+					"overall_sentiment": "Very Good",
+					"pos": 1
+				}
+			},
+			"brick": {
+				"adjectives": ["biggest", "other", "older", "actual", "biggest", "other", "older", "actual"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"hd": {
+				"adjectives": ["perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3142,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"bar": {
+				"adjectives": ["black", "foreign", "high", "nav", "certain", "confirm", "wa", "temporary", "full", "Second", "noticable", "gray", "nav", "gray", "nav", "own", "bottom", "black", "foreign", "high", "horrible", "nav", "certain", "confirm", "wa", "temporary", "full", "Second", "noticable", "gray", "nav", "gray", "nav", "full", "white", "nav", "nav", "amazing", "like", "Good", "oneplus", "better"],
+				"sentiment": {
+					"neg": 17,
+					"score": 0.008695833333333338,
+					"overall_sentiment": "Average",
+					"pos": 7
+				}
+			},
+			"launcher": {
+				"adjectives": ["horrible", "new", "exclusive", "own", "same"],
+				"sentiment": {
+					"neg": 7,
+					"score": -0.034277777777777775,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"resolution": {
+				"adjectives": ["free", "raw", "same", "free", "raw", "same", "screen", "more", "red", "screen"],
+				"sentiment": {
+					"neg": 7,
+					"score": 0.12034285714285715,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"ppi": {
+				"adjectives": ["more", "original", "more", "more", "original", "more", "due", "higher", "larger", "higher"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.45045,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"vr": {
+				"adjectives": ["free", "free", "free", "free"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.45855,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"carrier": {
+				"adjectives": ["cant", "biggest", "rival", "major", "cant", "monthly", "unlocked", "other", "most", "first", "wish", "side", "most", "different", "late", "Canadian", "underrated", "super", "fantastic", "unlimited", "free", "awesome", "cool", "stable", "other", "cool", "update", "cant", "biggest", "rival", "major", "cant", "monthly", "Grumble", "grumble", "exclusive", "unlocked", "other", "most", "first", "wish", "side", "most", "different", "late"],
+				"sentiment": {
+					"neg": 23,
+					"score": 0.052774193548387104,
+					"overall_sentiment": "Average",
+					"pos": 8
+				}
+			},
+			"root": {
+				"adjectives": ["im", "navy", "google", "awsome", "blue", "great", "muted", "great", "great", "im", "navy", "google", "awsome"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.11057999999999998,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"processor": {
+				"adjectives": ["unsuitable", "light", "own", "able", "many", "unsuitable", "light", "own", "able", "many", "Same", "same", "similar"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.49068571428571434,
+					"overall_sentiment": "Above Average",
+					"pos": 2
+				}
+			},
+			"block": {
+				"adjectives": ["capable"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.6131,
+					"overall_sentiment": "Good",
+					"pos": 1
+				}
+			},
+			"sd": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.296,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			}
+		}
+			
+	},
+	"google_pixel_c": {
+		"location":"images/pixel_c.png",
+		"features":{
+			"el": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.3818,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"droid": {
+				"adjectives": ["original", "original"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.3182,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"rom": {
+				"adjectives": ["n5"],
+				"sentiment": {
+					"neg": 8,
+					"score": 0.02299,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"ai": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"app": {
+				"adjectives": ["useless", "nav", "simple", "Unlimited", "bad", "first", "last", "yearNice", "good", "prompt", "poor", "important", "other", "lucky", "dumb", "pro", "disappointing", "safe", "pet", "current", "longer", "useless", "right", "nav", "simple", "Unlimited", "first", "bad", "first", "last", "yearNice", "Rubbish", "many", "useless", "VMM", "big", "beautiful", "lovelywhen", "thatoreo", "red", "beautiful", "lovelywhen", "thatoreo", "red", "good", "prompt", "poor", "important", "other", "lucky", "dumb", "pro", "disappointing", "safe", "pet", "current", "same", "same", "longer"],
+				"sentiment": {
+					"neg": 47,
+					"score": 0.04190163934426229,
+					"overall_sentiment": "Average",
+					"pos": 14
+				}
+			},
+			"ram": {
+				"adjectives": ["more", "id", "plenty", "funny", "worst", "screen", "dead", "2016", "sure", "im", "laptop", "extra", "double", "better", "spec", "spec", "much", "font", "more", "id", "plenty", "funny", "worst", "screen", "dead"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.23363076923076923,
+					"overall_sentiment": "Below Average",
+					"pos": 8
+				}
+			},
+			"spectrum": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.4019,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"pop": {
+				"adjectives": ["screen", "other", "worse", "perfect", "Oversaturated", "higher", "more", "screen", "other", "worse", "perfect", "beautiful", "lovelywhen", "thatoreo", "red", "Oversaturated", "higher", "more"],
+				"sentiment": {
+					"neg": 6,
+					"score": -0.03319999999999999,
+					"overall_sentiment": "Below Average",
+					"pos": 3
+				}
+			},
+			"bluetooth": {
+				"adjectives": ["simple", "decent", "big", "big", "decent"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.020500000000000004,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"stylus": {
+				"adjectives": ["true", "least", "iPad", "better", "grand", "tear", "exaggerated", "ideological", "other", "decent", "good", "dual", "true", "least", "iPad", "better", "grand"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.16770000000000002,
+					"overall_sentiment": "Average",
+					"pos": 6
+				}
+			},
+			"apk": {
+				"adjectives": ["screen", "other", "moded", "screen", "other", "moded"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.1806,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"vr": {
+				"adjectives": ["free", "free", "free", "free"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.45855,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"kbps": {
+				"adjectives": ["low"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.2732,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"im": {
+				"adjectives": ["old", "few", "technical", "possible", "i", "i", "mybest", "oculus", "sure", "higher", "higer", "north", "wealthy", "old", "few", "technical", "possible"],
+				"sentiment": {
+					"neg": 17,
+					"score": 0.05609444444444443,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"gb": {
+				"adjectives": ["nice", "poor", "highest", "i", "great", "big", "suck", "variant", "full", "nice", "poor"],
+				"sentiment": {
+					"neg": 8,
+					"score": -0.10424,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"skin": {
+				"adjectives": ["hard", "major", "own", "mediocre", "higher", "exposed"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.14673333333333335,
+					"overall_sentiment": "Average",
+					"pos": 3
+				}
+			},
+			"download": {
+				"adjectives": ["short", "extra", "internal", "nice"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.23088333333333333,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"tether": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.4215,
+					"overall_sentiment": "Bad",
+					"pos": 0
+				}
+			},
+			"port": {
+				"adjectives": ["shit", "better", "proper", "similar", "headphone", "spare", "same", "different", "fine", "modern", "straight", "other", "big", "prehistoric", "shit", "better", "proper", "similar", "daily", "wired", "least", "headphone", "spare"],
+				"sentiment": {
+					"neg": 15,
+					"score": -0.14660740740740738,
+					"overall_sentiment": "Below Average",
+					"pos": 12
+				}
+			},
+			"analog": {
+				"adjectives": ["normal", "shitty", "normal", "shitty"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.7978,
+					"overall_sentiment": "Very Good",
+					"pos": 2
+				}
+			},
+			"ice": {
+				"adjectives": ["good", "cheaper"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.683,
+					"overall_sentiment": "Good",
+					"pos": 1
+				}
+			},
+			"wan": {
+				"adjectives": ["ya", "â€œWe", "whole", "nexus"],
+				"sentiment": {
+					"neg": 6,
+					"score": -0.07956666666666667,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"capacity": {
+				"adjectives": ["latest", "legitimate", "fullHD", "better", "pretty", "decent", "good", "spec", "GREAT"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.66502,
+					"overall_sentiment": "Good",
+					"pos": 0
+				}
+			},
+			"antenna": {
+				"adjectives": ["wired", "better", "sound", "great"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.3243,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"min": {
+				"adjectives": ["resistant", "shallow", "black", "white"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.10946,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"das": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"firmware": {
+				"adjectives": ["cheap", "cheap", "open"],
+				"sentiment": {
+					"neg": 3,
+					"score": -0.2559,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"microsd": {
+				"adjectives": ["good", "good"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.51,
+					"overall_sentiment": "Good",
+					"pos": 2
+				}
+			},
+			"cell": {
+				"adjectives": ["unlocked", "best", "best", "expensive", "unlocked", "best"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.3325833333333334,
+					"overall_sentiment": "Above Average",
+					"pos": 3
+				}
+			},
+			"application": {
+				"adjectives": ["able", "various", "document", "spread", "other", "capable", "desktop", "cloud", "more", "full", "native", "anxious", "real", "workable", "great", "original", "miserable", "more", "robust", "mobile", "potential", "able", "various", "document", "spread", "other", "capable", "desktop", "cloud", "more", "full", "native", "anxious", "real", "workable", "great", "original", "miserable"],
+				"sentiment": {
+					"neg": 11,
+					"score": 0.1562529411764706,
+					"overall_sentiment": "Average",
+					"pos": 6
+				}
+			},
+			"bokeh": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"camera": {
+				"adjectives": ["full", "strong", "better", "certain", "huge", "last", "other", "isâ€”between", "lowlight", "clear", "best", "dual", "best", "First", "u", "dual", "expensive", "huge", "more", "great", "best", "best", "smart", "deep", "other", "latest", "Android", "rubbish", "bad", "first", "better", "awesome", "other", "best", "worse", "worse", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "rest", "unlimited", "free", "first", "cloud", "speaker", "most", "best", "universalized", "le", "s8", "screen", "real", "screen", "large", "due", "Real", "better", "new", "impressive", "dual", "expensive", "crazy", "good", "great", "pro", "Right", "wide", "second", "ta", "extra", "poor", "purple", "itâ€™s", "distorted", "disappointing", "dual", "dual", "safe", "best", "personal", "nice", "best", "bad", "nice", "best", "bad", "nice", "best", "bad", "dual", "wide", "average", "outdated", "good", "awesome", "such", "spec", "new", "rear", "front", "waterproof", "such", "spec", "new", "rear", "front", "waterproof", "front", "main", "front", "main", "bad", "next", "pet", "current", "front", "good", "phenomenal", "portrait", "buck", "wouldve", "reasonable", "Beautiful", "least", "only", "fluid", "audio", "better", "most", "higher", "best", "dead", "usagefor", "instant", "sd", "single", "superb", "ðŸ‘", "next", "dual", "mediocre", "video", "terrible", "low", "better", "unbiased", "complete", "better", "google", "high", "worthless", "dual", "physical", "uglier", "Nexus", "long", "good", "impressive", "big", "sure", "good", "real", "good", "unlimited", "cloud", "top", "dual", "top", "dual", "dual", "dual", "modern", "able", "amazing", "unlimited", "nougat", "front", "nougat", "front", "better", "dual", "new", "Cant", "spec", "best", "technical", "best", "technical", "best", "happy", "screen", "amazing", "super", "slow", "mobile", "best", "normal", "underrated", "super", "fantastic", "unlimited", "free", "awesome", "cool", "stable", "other", "cool", "update", "dual", "better", "digital", "gigpixel", "sweet", "mean", "stellar", "digital", "certain", "nearlyALL", "digital", "digital", "certain", "nearlyALL", "digital", "magical", "full", "strong", "better", "certain", "huge", "last", "other", "isâ€”between", "lowlight", "clear", "best", "large", "blind", "better", "equal", "better", "good", "bigger", "bigger", "able", "better", "single", "smart", "uselessIt", "actual", "true", "good", "decent", "full", "great", "rear", "front", "great", "rear", "front", "removable", "ultrapixel", "good", "girl", "sigh", "Good", "dual", "best", "First", "u", "dual", "expensive", "huge", "more", "great", "best", "garbage", "least", "best", "smart", "deep", "other", "latest", "Android", "rubbish", "Other", "atrocious", "happy", "better", "perfect", "Other", "atrocious", "happy", "better", "perfect", "bad", "first", "long", "bad", "good", "u", "best", "more", "high", "least", "high", "dual", "happy", "great", "gambler", "type", "mobile", "great", "sick", "better", "good", "only", "decent", "newer", "good", "only", "decent", "newer", "better", "same", "smaller", "touch", "more", "i", "fair", "best", "awesome", "other", "best", "worse", "worse", "true", "best", "comparable", "other", "latest", "many", "great", "sure", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "rest", "i", "best", "ok", "good", "best", "unlimited", "free", "first", "cloud", "speaker", "most", "best", "universalized", "le", "s8", "screen", "real", "screen", "large", "due", "Real", "better", "spen", "new", "impressive", "dual", "expensive", "crazy", "good", "great", "pro", "Right", "wide", "second", "ta", "extra", "poor", "purple", "itâ€™s", "distorted", "disappointing", "dual", "dual", "safe", "best", "personal", "nice", "best", "bad", "nice", "best", "bad", "nice", "best", "bad", "dual", "wide", "average", "outdated", "good", "awesome", "such", "spec", "new", "rear", "front", "waterproof", "such", "spec", "new", "rear", "front", "waterproof", "tough", "best", "dual", "rear", "standard", "wideangle", "expanded", "front", "wideangle", "proof", "dual", "front", "main", "front", "main", "bad", "next", "pet", "current", "slow", "front", "good", "phenomenal", "portrait", "buck", "wouldve", "reasonable", "isnt", "tiny", "large", "better", "tiny", "large", "better", "modern", "modern", "Ù‡Ø°Ø§", "due", "wave", "certain", "many", "Many", "best", "identical", "cheaper", "easy", "update", "important", "olden", "best", "oversampled", "full", "top", "full", "professional", "better", "better", "good", "easiest", "huge", "huge", "optic", "own", "big", "best", "best", "light", "best", "same", "real", "Extra", "expensive", "great", "old", "several", "current", "nokia", "bad", "shitty", "great", "Massive", "doesnt", "mean", "great", "dynamic", "important", "bigger", "other", "better", "highest", "wa", "impressive", "highest", "wa", "impressive", "highest", "wa", "impressive", "Current", "good", "professional", "more", "capable", "average", "professional", "huge", "general", "long", "good", "much", "couldnt", "saturated", "mobile", "big", "serious", "fabulous", "wider", "cool", "best", "Panasonic", "best", "Good", "oneplus", "better", "Beautiful", "least", "only", "fluid", "audio", "better", "most", "only", "good", "higher"],
+				"sentiment": {
+					"neg": 188,
+					"score": 0.21296774193548376,
+					"overall_sentiment": "Average",
+					"pos": 122
+				}
+			},
+			"uma": {
+				"adjectives": ["uma", "nova", "uma", "nova"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"digital": {
+				"adjectives": ["much", "PIXEL"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4939,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"ir": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"android": {
+				"adjectives": ["Certain", "simple", "limited", "disappointing", "vanilla", "secondary", "great", "Fantastic", "same", "i", "easy", "whole", "soo", "only", "better", "much", "dang", "significant", "bad", "only", "powerful", "powerful", "same", "crappy", "better", "same", "best", "higher", "cheaper", "enough", "poor", "worse", "premium", "same", "other", "Applelike", "android", "same", "Certain", "simple", "limited", "green", "disappointing", "vanilla", "great", "old", "famous", "great", "old", "famous", "secondary", "great", "Fantastic", "same", "i", "easy", "whole", "soo", "only", "better", "much", "doe", "dang", "ready", "many", "n", "many", "n", "n", "many", "n", "next", "significant", "shit", "lg", "lucky", "actual"],
+				"sentiment": {
+					"neg": 18,
+					"score": 0.06336153846153847,
+					"overall_sentiment": "Average",
+					"pos": 47
+				}
+			},
+			"pixel": {
+				"adjectives": ["next", "new", "next", "similar", "First", "u", "best", "new", "flawless", "buttery", "lagless", "full", "regular", "true", "unbeatable", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "shit", "better", "proper", "happy", "unable", "next", "lol", "fixed", "front", "bezelless", "regular", "cant", "normal", "better", "guaranteed", "Happy", "pure", "bad", "most", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "screen", "screen", "due", "blue", "next", "few", "nexus", "next", "youre", "wa", "first", "wa", "first", "wa", "first", "Real", "better", "smaller", "Android", "central", "first", "much", "impressive", "dual", "expensive", "cheaper", "first", "standard", "atrocious", "ultra", "ðŸ‘Ž", "ðŸ‘Ž", "iPhone", "dual", "nexus", "more", "hard", "disappointing", "sure", "i", "impossible", "online", "expandable", "bad", "next", "v20", "uglier", "such", "bad", "many", "android", "little", "loyal", "poor", "good", "black", "pro", "same", "pro", "same", "pro", "beta", "new", "great", "unlocked", "google", "best", "same", "many", "google", "regular", "awful", "new", "black", "fabric", "sheep", "awful", "blue", "new", "official", "pixel", "first", "shitty", "high", "normal", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "clean", "andriod", "more", "live", "great", "worth", "more", "previous", "good", "i", "better", "original", "previous", "good", "i", "better", "original", "quiet", "quiet", "first", "better", "note", "toooooooo", "costly", "india", "u", "nokia", "ðŸ˜", "nice", "idiotic", "superb", "ðŸ‘", "next", "new", "new", "bad", "new", "new", "bad", "mediocre", "expensive", "best", "dual", "Cant", "crappy", "better", "nexus", "thn", "better", "google", "high", "hard", "havent", "much", "next", "obsolete", "update", "nexus", "frank", "many", "google", "pixel", "free", "i", "google", "pixel", "free", "i", "im", "navy", "google", "awsome", "pixel", "af", "pro", "note7", "pro", "other", "same", "same", "nexus", "same", "pathetic", "flop", "russian", "first", "regular", "first", "little", "flashing", "first", "little", "flashing", "able", "first", "other", "Nexus", "long", "good", "impressive", "big", "Nexus", "long", "good", "impressive", "big", "front", "other", "glorified", "most", "loyal", "nexus", "own", "nexus", "great", "decent", "good", "half", "first", "same", "nice", "overpriced", "uglyv", "uglier", "first", "better", "favourite", "sure", "current", "sure", "current", "next", "wrong", "bigger", "good", "weak", "cheap", "other", "new", "few", "decent", "old", "new", "brief", "launch", "certain", "more", "other", "better", "happy", "small", "mentioned", "Good", "poor", "bad", "rival", "same", "countless", "second", "dumb", "wa", "exclusive", "other", "big", "happy", "ready", "original", "ready", "original", "most", "best", "original", "strong", "next", "next", "google", "i", "poor", "Second", "skyscraper", "ripple", "asteroid", "horrible", "worst", "worse", "worse", "more", "dislike", "better", "bad", "new", "mega", "ultra", "cant", "mega", "next", "similar", "First", "u", "chrome", "greatest", "laptop", "enormous", "greatest", "laptop", "enormous", "sure", "indeed32gb", "horrible", "new", "exclusive", "own", "best", "new", "flawless", "buttery", "lagless", "full", "regular", "true", "unbeatable", "Next", "better", "rep", "new", "new", "screen", "aware", "other", "initial", "allow", "most", "shit", "better", "proper", "happy", "unable", "next", "lol", "fixed", "front", "bezelless", "regular", "cant", "unlocked", "white", "update", "bigger", "older", "hot", "google", "update", "other", "sure", "google", "past", "update", "normal", "better", "nexus", "guaranteed", "great", "great", "other", "update", "concept", "excellent", "developer", "update", "Happy", "pure", "detailed", "smudged", "other", "Android", "screen", "bad", "most", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "best", "full", "many", "full", "most", "fix", "fix", "youre", "dead", "last", "first", "many", "better", "removable", "extra", "automatic", "much", "inferior", "mean", "late", "screen", "screen", "due", "blue", "last", "nexus", "last", "serious", "bad", "next", "few", "u", "u", "nexus", "next", "youre", "wa", "first", "wa", "first", "wa", "first", "Real", "better", "smaller", "Android", "central", "real", "wireless", "first", "much", "original", "great", "old", "impressive", "dual", "expensive", "cheaper", "first", "standard", "atrocious", "ultra", "ðŸ‘Ž", "ðŸ‘Ž", "iPhone", "dual", "nexus", "more", "hard", "disappointing", "sure", "i", "impossible", "online", "expandable", "bad", "next", "v20", "uglier", "such", "bad", "many", "good", "happy", "most", "deep", "best", "Android", "update", "andriod", "exact", "update", "update", "andriod", "exact", "update", "update", "andriod", "exact", "update", "android", "little", "loyal", "poor", "good", "black", "pro", "same", "pro", "same", "pro", "shitty", "lg", "high", "beta", "new", "great", "unlocked", "funny", "other", "fuckin", "blue", "blue", "own", "good", "such", "insane", "many", "cant", "more", "mega", "mega", "real", "low", "dynamic", "current", "due", "efficient", "light", "multiple", "more", "large", "pixel", "weird", "entire", "new", "better", "better", "better", "faultless", "awesome", "doesnt", "nice", "google", "best", "bad", "total", "unlockable", "exclusive", "same", "many", "google", "same", "cant", "good", "more", "i", "theyre", "mobile", "regular", "awful", "new", "black", "fabric", "sheep"],
+				"sentiment": {
+					"neg": 391,
+					"score": 0.07308147448015122,
+					"overall_sentiment": "Average",
+					"pos": 138
+				}
+			},
+			"sim": {
+				"adjectives": ["dual", "dual", "old", "unicom", "unlocked", "proof", "dual"],
+				"sentiment": {
+					"neg": 5,
+					"score": 0.03558,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"gps": {
+				"adjectives": ["mic"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.4215,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"map": {
+				"adjectives": ["poor", "purple", "itâ€™s", "distorted", "poor", "purple", "itâ€™s", "distorted"],
+				"sentiment": {
+					"neg": 2,
+					"score": -0.7269,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"widget": {
+				"adjectives": ["personal", "original", "personal", "original"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.0958,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"smartphone": {
+				"adjectives": ["real", "best", "excellent", "best", "best", "screen", "best", "burnin", "normal", "other", "pixel", "first", "cloud", "speaker", "most", "best", "laptop", "laptop", "basic", "real", "good", "last", "good", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect", "expensive", "â‚¬", "fry", "same", "cheaper", "spen", "other", "spen", "other", "great", "perfectSO", "good", "great", "perfectSO", "good", "broken", "new", "widespread", "own", "other", "ugliest", "best", "hard", "attractive", "possible", "worse", "better", "other", "good", "real", "higher", "useless", "nice", "worst", "best", "excellent", "best", "best", "possible", "high", "shitty", "wa", "previous", "fifthrated", "best", "screen", "best", "burnin", "normal", "other", "pixel", "first", "cloud", "speaker", "most", "best", "best", "laptop", "laptop", "basic", "real", "old", "good", "last", "good", "unfitting", "good", "normal", "bigol", "optical", "physic"],
+				"sentiment": {
+					"neg": 32,
+					"score": 0.24573728813559328,
+					"overall_sentiment": "Average",
+					"pos": 27
+				}
+			},
+			"circuit": {
+				"adjectives": ["magical", "old", "x"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.4588,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"prepaid": {
+				"adjectives": ["receive", "receive"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.2732,
+					"overall_sentiment": "Above Average",
+					"pos": 0
+				}
+			},
+			"exchange": {
+				"adjectives": ["sure", "available", "sure", "available"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.04586666666666667,
+					"overall_sentiment": "Average",
+					"pos": 2
+				}
+			},
+			"ota": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"activation": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.1027,
+					"overall_sentiment": "Below Average",
+					"pos": 1
+				}
+			},
+			"wallpaper": {
+				"adjectives": ["live", "apk", "live", "official", "gray", "nav", "key", "black", "hidden", "black", "great", "short", "horrible", "live", "apk", "live", "official", "gray", "nav", "key", "black", "hidden", "black", "live"],
+				"sentiment": {
+					"neg": 8,
+					"score": -0.010587499999999996,
+					"overall_sentiment": "Below Average",
+					"pos": 8
+				}
+			},
+			"wireless": {
+				"adjectives": ["bad", "slight", "longer", "magnetic", "same", "u", "extra", "Cant", "first", "many", "other", "impressive", "dual", "expensive", "great", "better", "whats", "next", "past", "nai", "sd", "single", "removable", "next", "same", "missing", "sd", "waterproof", "expandable", "screen", "lossless", "nice", "new", "evil", "same", "sd", "stupid", "expensive", "public", "guest", "fine", "expensive", "nonexistent", "ridiculous", "wireless", "ear", "dual", "bad", "many", "straight", "other", "big", "slight", "longer", "magnetic", "same", "u", "extra", "Cant", "first", "Most", "havent", "right", "expensive", "many", "other", "mild", "doesnt", "decent", "quick", "most", "slower", "normal", "complete", "good", "much", "charger", "extra", "headphone", "sad", "fast", "ha", "obsolete", "such", "wasted", "extra", "overblown", "top", "big", "suck", "variant", "full", "quickdash", "impressive", "dual", "expensive", "great", "better", "butter"],
+				"sentiment": {
+					"neg": 18,
+					"score": -0.09181954022988507,
+					"overall_sentiment": "Below Average",
+					"pos": 69
+				}
+			},
+			"band": {
+				"adjectives": ["full", "white", "nav", "nav"],
+				"sentiment": {
+					"neg": 6,
+					"score": 0.031800000000000016,
+					"overall_sentiment": "Average",
+					"pos": 0
+				}
+			},
+			"lcd": {
+				"adjectives": ["own", "own"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"oem": {
+				"adjectives": ["horrible"],
+				"sentiment": {
+					"neg": 1,
+					"score": -0.5423,
+					"overall_sentiment": "Very Bad",
+					"pos": 0
+				}
+			},
+			"codec": {
+				"adjectives": ["interested"],
+				"sentiment": {
+					"neg": 0,
+					"score": -0.3089,
+					"overall_sentiment": "Bad",
+					"pos": 1
+				}
+			},
+			"bit": {
+				"adjectives": ["good", "different", "bad", "real", "bad", "overpriced", "android", "ur", "willing", "expensive", "little", "little", "expensive", "little", "little", "steep", "few", "key", "new", "good", "ugh", "little", "bias", "little", "stupid", "concerned", "additional", "bad", "shiny", "good", "different", "extra", "vertical", "big", "biased", "extra", "vertical", "big", "biased", "disappointed", "most", "small", "extra", "other", "more", "bad", "extra", "internal", "nice", "sad", "slow", "real", "bad"],
+				"sentiment": {
+					"neg": 21,
+					"score": -0.13816842105263158,
+					"overall_sentiment": "Below Average",
+					"pos": 17
+				}
+			},
+			"bootloader": {
+				"adjectives": ["mean", "unlockable", "stupid", "locked", "exclusive", "update", "bad", "mean", "unlockable", "unlockable", "stupid"],
+				"sentiment": {
+					"neg": 24,
+					"score": 0.05118399999999999,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"ois": {
+				"adjectives": ["underrated", "super", "fantastic", "unlimited", "free", "awesome", "cool", "stable", "other", "cool", "update"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.8479,
+					"overall_sentiment": "Very Good",
+					"pos": 1
+				}
+			},
+			"brick": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"hd": {
+				"adjectives": ["perfect", "prsent", "mp2", "extract", "htc", "best", "big", "full", "full", "perfect"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3142,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"bar": {
+				"adjectives": ["nav", "black", "foreign", "high", "nav", "certain", "confirm", "wa", "temporary", "full", "Second", "noticable", "gray", "nav", "gray", "nav", "nav", "visible", "nice", "best", "nav", "black", "foreign", "high", "horrible", "nav", "certain", "confirm", "wa", "temporary", "full", "Second", "noticable", "gray", "nav", "gray", "nav", "nav", "full", "white", "nav", "nav", "mobile", "like", "Good", "oneplus", "better"],
+				"sentiment": {
+					"neg": 24,
+					"score": 0.02814516129032258,
+					"overall_sentiment": "Average",
+					"pos": 7
+				}
+			},
+			"mb": {
+				"adjectives": [],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.2732,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"launcher": {
+				"adjectives": ["official", "pixel", "weird", "first", "shitty", "high", "short", "horrible", "new", "exclusive", "own", "other", "own", "nice", "widget", "werent", "difficult", "other", "good", "able", "nice", "same"],
+				"sentiment": {
+					"neg": 16,
+					"score": -0.08476315789473685,
+					"overall_sentiment": "Below Average",
+					"pos": 3
+				}
+			},
+			"root": {
+				"adjectives": ["android", "ur", "willing", "im", "navy", "google", "awsome", "nexus", "expensive", "nexus", "long", "working", "twrp"],
+				"sentiment": {
+					"neg": 4,
+					"score": 0.0773857142857143,
+					"overall_sentiment": "Average",
+					"pos": 3
+				}
+			},
+			"ppi": {
+				"adjectives": ["more", "original", "more", "crazy", "high"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.002760000000000007,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"megapixel": {
+				"adjectives": ["optic", "better", "other", "Massive", "doesnt", "mean", "great", "dynamic", "important"],
+				"sentiment": {
+					"neg": 2,
+					"score": 0.1809666666666667,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"edge": {
+				"adjectives": ["other", "isâ€”between", "lowlight", "clear", "higher", "last", "wireless", "new", "perfect", "best", "pathetic", "nexus", "great", "decent", "good", "half", "ip68", "resistant", "single", "removable", "external", "screen", "upgrade", "other", "isâ€”between", "lowlight", "clear", "higher", "last", "wireless", "new", "tap", "generous", "da", "open", "last"],
+				"sentiment": {
+					"neg": 19,
+					"score": -0.0016774193548387093,
+					"overall_sentiment": "Below Average",
+					"pos": 12
+				}
+			},
+			"ui": {
+				"adjectives": ["better"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.9545,
+					"overall_sentiment": "Very Good",
+					"pos": 1
+				}
+			},
+			"gyroscope": {
+				"adjectives": ["capable"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.3818,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"calendar": {
+				"adjectives": ["next23082017"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 0
+				}
+			},
+			"carrier": {
+				"adjectives": ["unlocked", "various", "unlocked", "other", "most", "first", "wish", "side", "imagine", "many", "such", "most", "different", "biggest", "only", "exclusive", "major", "Canadian", "underrated", "super", "fantastic", "unlimited", "free", "awesome", "cool", "stable", "other", "cool", "update", "bad", "wrong", "unlocked", "various", "Grumble", "grumble", "exclusive", "unlocked", "other", "most", "first", "wish", "side", "imagine", "many", "such", "most", "different", "doe", "biggest", "only", "available", "major", "exclusive"],
+				"sentiment": {
+					"neg": 28,
+					"score": -0.016835135135135137,
+					"overall_sentiment": "Below Average",
+					"pos": 9
+				}
+			},
+			"push": {
+				"adjectives": ["cant"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.0,
+					"overall_sentiment": "Below Average",
+					"pos": 2
+				}
+			},
+			"frequency": {
+				"adjectives": ["due", "wave", "certain", "many"],
+				"sentiment": {
+					"neg": 0,
+					"score": 0.2732,
+					"overall_sentiment": "Above Average",
+					"pos": 1
+				}
+			},
+			"sd": {
+				"adjectives": ["min", "removable", "best", "ip68", "resistant", "single", "removable", "external", "screen", "min", "big", "suck", "variant", "full", "shitty", "other"],
+				"sentiment": {
+					"neg": 5,
+					"score": -0.3028888888888889,
+					"overall_sentiment": "Bad",
+					"pos": 4
+				}
+			},
+			"resolution": {
+				"adjectives": ["great", "other", "great", "incredible", "free", "raw", "same", "horrible", "weird", "higher", "useless", "awesome", "higher", "such", "great", "other", "weird", "app", "new", "biased", "crappy", "impractical", "high", "highest", "i", "higher", "higer", "north", "wealthy", "great", "Most", "much", "oversampled", "full", "top", "full", "professional", "better", "better", "good", "incredible"],
+				"sentiment": {
+					"neg": 18,
+					"score": 0.039411538461538484,
+					"overall_sentiment": "Average",
+					"pos": 8
+				}
+			},
+			"processor": {
+				"adjectives": ["plenty", "sure", "im", "laptop", "extra", "double", "better", "better", "other", "Same", "same", "similar", "plenty"],
+				"sentiment": {
+					"neg": 3,
+					"score": 0.29638333333333333,
+					"overall_sentiment": "Above Average",
+					"pos": 3
+				}
+			},
+			"block": {
+				"adjectives": ["capable", "smaller", "own", "light"],
+				"sentiment": {
+					"neg": 1,
+					"score": 0.08634999999999998,
+					"overall_sentiment": "Average",
+					"pos": 1
+				}
+			},
+			"browser": {
+				"adjectives": ["perfect", "remote", "brilliant", "other", "perfect", "remote", "brilliant", "other", "highest", "full", "few", "more", "againThe", "practical", "web", "more", "web", "more"],
+				"sentiment": {
+					"neg": 22,
+					"score": 0.079388,
+					"overall_sentiment": "Average",
+					"pos": 3
+				}
+			}	
+		}		
+	}
+}
